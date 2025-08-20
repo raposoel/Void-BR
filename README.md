@@ -7,7 +7,7 @@ Um módulo com compêndios trazendo o material do Void traduzido.
 https://raw.githubusercontent.com/raposoel/Void-BR/refs/heads/main/module.json
 
 # Conteúdo
-<br> <b>Bruxo</b> 100%
+<b>Bruxo</b> 100%
 <br> <b>Assassino</b> 50% (faltam habilidades de Envenenadores)
 <br> <b>Lutador</b> 30% (faltam habilidades habilidades Especializadas e Masterizadas)
 <br> <b>Pactualista</b> 15% (faltam habilidades de subclasses)
