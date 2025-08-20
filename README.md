@@ -3,5 +3,14 @@ Material do Void de Daggerheart, traduzido para o brasileiro. Sem invenção, s�
 
 Um módulo com compêndios trazendo o material do Void traduzido.
 
+# Conteúdo:
+<br> <b>Bruxo</b> 100%
+<br> <b>Assassino</b> 50% (faltam habilidades de Envenenadores)
+<br> <b>Lutador</b> 30% (faltam habilidades habilidades Especializadas e Masterizadas)
+<br> <b>Pactualista</b> 15% (faltam habilidades de subclasses)
+<br> <b>Ancestralidades</b> 100% 
+<br> <b>Comunidades</b> 0% 
+<br> <b>Transformações</b> 0% 
+
 License
 https://www.daggerheart.com/srd/
