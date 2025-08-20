@@ -1,0 +1,74 @@
+{
+  "id": "void-dh",
+  "title": "Void DH",
+  "version": "0.0.8",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Luiz Nogueira (Raposo El)",
+      "discord": "luizrealoficial",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "classes-void",
+      "label": "Classes & Subclasses",
+      "path": "packs/classes-void",
+      "type": "Item",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "heritage-void",
+      "label": "Heranças",
+      "path": "packs/heritage-void",
+      "type": "Item",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "more-void",
+      "label": "Outros",
+      "path": "packs/more-void",
+      "type": "Item",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "roll-void",
+      "label": "Tabelas",
+      "path": "packs/roll-void",
+      "type": "RollTable",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "daggerheart",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "manifest": "https://raw.githubusercontent.com/raposoel/Void-BR/refs/heads/main/module.json",
+  "download": "https://github.com/raposoel/Void-BR/archive/refs/heads/main.zip",
+  "flags": {}
+}
