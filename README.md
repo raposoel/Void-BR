@@ -11,8 +11,8 @@ https://raw.githubusercontent.com/raposoel/Void-BR/refs/heads/main/module.json
 <br> <b>Assassino</b> 50% (faltam habilidades de Envenenadores)
 <br> <b>Lutador</b> 30% (faltam habilidades habilidades Especializadas e Masterizadas)
 <br> <b>Pactualista</b> 15% (faltam habilidades de subclasses)
-<br> <b>Ancestralidades</b> 100% 
-<br> <b>Comunidades</b> 0% 
+<br> <b>Ancestralidades</b> 100% (em inglês)
+<br> <b>Comunidades</b> 100% (em inglês)
 <br> <b>Transformações</b> 0% 
 
 License
