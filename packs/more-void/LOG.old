@@ -1,8 +1,15 @@
-2025/11/22-02:08:35.477069 73695e7bd6c0 Recovering log #805
-2025/11/22-02:08:35.483056 73695e7bd6c0 Delete type=0 #805
-2025/11/22-02:08:35.483090 73695e7bd6c0 Delete type=3 #803
-2025/11/22-02:09:59.482534 73695d7bb6c0 Level-0 table #810: started
-2025/11/22-02:09:59.482554 73695d7bb6c0 Level-0 table #810: 0 bytes OK
-2025/11/22-02:09:59.484167 73695d7bb6c0 Delete type=0 #808
-2025/11/22-02:09:59.486189 73695d7bb6c0 Manual compaction at level-0 from '!folders!1e5Sn8OXxEQ57GSD' @ 72057594037927935 : 1 .. '!items.effects!zzb4IbiC3t59TL5n.FinwWbESBaR9YPOy' @ 0 : 0; will stop at (end)
-2025/11/22-02:09:59.486237 73695d7bb6c0 Manual compaction at level-1 from '!folders!1e5Sn8OXxEQ57GSD' @ 72057594037927935 : 1 .. '!items.effects!zzb4IbiC3t59TL5n.FinwWbESBaR9YPOy' @ 0 : 0; will stop at (end)
+2025/11/22-02:10:06.995401 73695f7bf6c0 Recovering log #809
+2025/11/22-02:10:07.040218 73695f7bf6c0 Delete type=0 #809
+2025/11/22-02:10:07.040253 73695f7bf6c0 Delete type=3 #807
+2025/11/22-14:53:30.594994 73695d7bb6c0 Level-0 table #814: started
+2025/11/22-14:53:30.600533 73695d7bb6c0 Level-0 table #814: 109567 bytes OK
+2025/11/22-14:53:30.603463 73695d7bb6c0 Delete type=0 #812
+2025/11/22-14:53:30.638495 73695d7bb6c0 Manual compaction at level-0 from '!folders!1e5Sn8OXxEQ57GSD' @ 72057594037927935 : 1 .. '!items.effects!zzb4IbiC3t59TL5n.FinwWbESBaR9YPOy' @ 0 : 0; will stop at (end)
+2025/11/22-14:53:30.638534 73695d7bb6c0 Manual compaction at level-1 from '!folders!1e5Sn8OXxEQ57GSD' @ 72057594037927935 : 1 .. '!items.effects!zzb4IbiC3t59TL5n.FinwWbESBaR9YPOy' @ 0 : 0; will stop at '!items.effects!Xs7UFmXDuVFizKvQ.iJpmWjUkmjyJHiwT' @ 1193 : 1
+2025/11/22-14:53:30.638539 73695d7bb6c0 Compacting 1@1 + 1@2 files
+2025/11/22-14:53:30.658478 73695d7bb6c0 Generated table #815@1: 89 keys, 79896 bytes
+2025/11/22-14:53:30.658507 73695d7bb6c0 Compacted 1@1 + 1@2 files => 79896 bytes
+2025/11/22-14:53:30.660264 73695d7bb6c0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/22-14:53:30.660364 73695d7bb6c0 Delete type=2 #802
+2025/11/22-14:53:30.660482 73695d7bb6c0 Delete type=2 #814
+2025/11/22-14:53:30.677630 73695d7bb6c0 Manual compaction at level-1 from '!items.effects!Xs7UFmXDuVFizKvQ.iJpmWjUkmjyJHiwT' @ 1193 : 1 .. '!items.effects!zzb4IbiC3t59TL5n.FinwWbESBaR9YPOy' @ 0 : 0; will stop at (end)
