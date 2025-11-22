@@ -1,7 +1,7 @@
 {
   "id": "void-dh",
-  "title": "Void DH",
-  "version": "0.0.8",
+  "title": "Void DH", 
+  "version": "1.0.0",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -16,7 +16,7 @@
   "packs": [
     {
       "name": "classes-void",
-      "label": "Classes & Subclasses",
+      "label": "Classes & Subclasses", 
       "path": "packs/classes-void",
       "type": "Item",
       "system": "daggerheart",
@@ -28,7 +28,7 @@
     {
       "name": "heritage-void",
       "label": "Heranças",
-      "path": "packs/heritage-void",
+      "path": "packs/heritage-void", 
       "type": "Item",
       "system": "daggerheart",
       "ownership": {
@@ -37,7 +37,7 @@
       }
     },
     {
-      "name": "more-void",
+      "name": "more-void", 
       "label": "Outros",
       "path": "packs/more-void",
       "type": "Item",
@@ -51,7 +51,7 @@
       "name": "roll-void",
       "label": "Tabelas",
       "path": "packs/roll-void",
-      "type": "RollTable",
+      "type": "RollTable", 
       "system": "daggerheart",
       "ownership": {
         "PLAYER": "OBSERVER",
@@ -59,11 +59,25 @@
       }
     }
   ],
+  "packFolders": [
+    {
+      "name": "Void",
+      "sorting": "a", 
+      "color": "#351163",
+      "packs": [
+        "classes-void",
+        "heritage-void", 
+        "more-void",
+        "roll-void"
+      ],
+      "folders": []
+    }
+  ],
   "relationships": {
     "systems": [
       {
         "id": "daggerheart",
-        "type": "system",
+        "type": "system", 
         "compatibility": {}
       }
     ]
