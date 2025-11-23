@@ -84,5 +84,6 @@
   },
   "manifest": "https://raw.githubusercontent.com/raposoel/Void-BR/refs/heads/main/module.json",
   "download": "https://codeload.github.com/raposoel/Void-BR/zip/main",
+  "url": "https://github.com/raposoel/Void-BR"
   "flags": {}
 }
