@@ -1,6 +1,6 @@
 {
   "id": "the_void-br",
-  "title": "The Void DH - BR", 
+  "title": "The Void DH - BR",
   "version": "1.0.4",
   "compatibility": {
     "minimum": "13",
@@ -16,7 +16,7 @@
   "packs": [
     {
       "name": "classes-void",
-      "label": "Classes & Subclasses", 
+      "label": "Classes & Subclasses",
       "path": "packs/classes-void",
       "type": "Item",
       "system": "daggerheart",
@@ -28,7 +28,7 @@
     {
       "name": "heritage-void",
       "label": "Heranças",
-      "path": "packs/heritage-void", 
+      "path": "packs/heritage-void",
       "type": "Item",
       "system": "daggerheart",
       "ownership": {
@@ -37,7 +37,7 @@
       }
     },
     {
-      "name": "more-void", 
+      "name": "more-void",
       "label": "Outros",
       "path": "packs/more-void",
       "type": "Item",
@@ -51,23 +51,35 @@
       "name": "roll-void",
       "label": "Tabelas",
       "path": "packs/roll-void",
-      "type": "RollTable", 
+      "type": "RollTable",
       "system": "daggerheart",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "macros-void",
+      "label": "Macros",
+      "path": "packs/macros-void",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "daggerheart"
     }
   ],
   "packFolders": [
     {
       "name": "Void",
-      "sorting": "a", 
+      "sorting": "a",
       "color": "#351163",
       "packs": [
         "classes-void",
-        "heritage-void", 
+        "heritage-void",
         "more-void",
+	"macros-void",
         "roll-void"
       ],
       "folders": []
@@ -77,7 +89,7 @@
     "systems": [
       {
         "id": "daggerheart",
-        "type": "system", 
+        "type": "system",
         "compatibility": {}
       }
     ]
@@ -85,5 +97,6 @@
   "manifest": "https://raw.githubusercontent.com/raposoel/Void-BR/refs/heads/main/module.json",
   "download": "https://codeload.github.com/raposoel/Void-BR/zip/main",
   "url": "https://github.com/raposoel/Void-BR",
+  "description": "",
   "flags": {}
 }
