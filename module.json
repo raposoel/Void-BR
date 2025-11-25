@@ -1,7 +1,7 @@
 {
   "id": "the_void-br",
   "title": "The Void DH - BR", 
-  "version": "1.0.3",
+  "version": "1.0.4",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -84,6 +84,6 @@
   },
   "manifest": "https://raw.githubusercontent.com/raposoel/Void-BR/refs/heads/main/module.json",
   "download": "https://codeload.github.com/raposoel/Void-BR/zip/main",
-  "url": "https://github.com/raposoel/Void-BR"
+  "url": "https://github.com/raposoel/Void-BR",
   "flags": {}
 }
