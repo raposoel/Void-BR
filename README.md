@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/raposoel/Void-BR/refs/heads/main/module.json
 <br> <b>Comunidades</b> 100%
 <br> <b>Transformações</b> 100% 
 <br> <b>Caçador Sangrento + Domínio do Sangue</b> 100% 
-<br> <b>Ancestralidades</b> 75% Algumas habilidadaes ainda em inglês.
+<br> <b>Macros em Brasileiro e corrigidas.</b>
 
 License
 https://www.daggerheart.com/srd/
