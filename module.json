@@ -6,7 +6,22 @@
     "minimum": "13",
     "verified": "13"
   },
-  "authors": [
+    "esmodules": [
+    "scripts/module.js"
+  ],
+
+  "relationships": {
+    "systems": [
+      {
+        "id": "daggerheart",
+        "type": "system",
+        "compatibility": {
+          "minimum": "1.4.4"
+        }
+      }
+    ]
+  },   
+"authors": [
     {
       "name": "Luiz Nogueira (Raposo El)",
       "discord": "luizrealoficial",
@@ -63,6 +78,17 @@
       "label": "Macros",
       "path": "packs/macros-void",
       "type": "Macro",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "adv-amb",
+      "label": "Adversários & Ambientes",
+      "path": "packs/adv-amb",
+      "type": "Actor",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -79,7 +105,8 @@
         "classes-void",
         "heritage-void",
         "more-void",
-	"macros-void",
+        "macros-void",
+	"adv-amb",
         "roll-void"
       ],
       "folders": []
