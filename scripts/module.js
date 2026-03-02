@@ -32,12 +32,12 @@ async function registerVoidDomains() {
         'blood': {
             id: 'sangue',
             label: 'Sangue',
-            src: `Imagens/Void/sangue-dom-6914b0d04de76.webp`            
+            src: `../Imagens/Void/sangue-dom-6914b0d04de76.webp`            
         },
         'dread': {
             id: 'pavor',
             label: 'Pavor',
-            src: `Imagens/Void/pavor-dom-6914b0d04de76.webp`            
+            src: `../Imagens/Void/pavor-dom-6914b0d04de76.webp`            
         }
     };
 
