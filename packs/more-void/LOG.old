@@ -1,8 +1,15 @@
-2026/02/25-16:58:11.167537 7bee1cdfa6c0 Recovering log #1322
-2026/02/25-16:58:11.175107 7bee1cdfa6c0 Delete type=0 #1322
-2026/02/25-16:58:11.175143 7bee1cdfa6c0 Delete type=3 #1320
-2026/02/25-22:49:34.335495 7bedf67fc6c0 Level-0 table #1327: started
-2026/02/25-22:49:34.335518 7bedf67fc6c0 Level-0 table #1327: 0 bytes OK
-2026/02/25-22:49:34.337544 7bedf67fc6c0 Delete type=0 #1325
-2026/02/25-22:49:34.337649 7bedf67fc6c0 Manual compaction at level-0 from '!folders!1e5Sn8OXxEQ57GSD' @ 72057594037927935 : 1 .. '!items.effects!zzb4IbiC3t59TL5n.FinwWbESBaR9YPOy' @ 0 : 0; will stop at (end)
-2026/02/25-22:49:34.340832 7bedf67fc6c0 Manual compaction at level-1 from '!folders!1e5Sn8OXxEQ57GSD' @ 72057594037927935 : 1 .. '!items.effects!zzb4IbiC3t59TL5n.FinwWbESBaR9YPOy' @ 0 : 0; will stop at (end)
+2026/03/12-15:59:01.428887 78fd163fd6c0 Recovering log #1450
+2026/03/12-15:59:01.442925 78fd163fd6c0 Delete type=3 #1448
+2026/03/12-15:59:01.443003 78fd163fd6c0 Delete type=0 #1450
+2026/03/12-16:13:04.259655 78fd153fb6c0 Level-0 table #1455: started
+2026/03/12-16:13:04.267769 78fd153fb6c0 Level-0 table #1455: 2050 bytes OK
+2026/03/12-16:13:04.269838 78fd153fb6c0 Delete type=0 #1453
+2026/03/12-16:13:04.277732 78fd153fb6c0 Manual compaction at level-0 from '!folders!1e5Sn8OXxEQ57GSD' @ 72057594037927935 : 1 .. '!items.effects!zzb4IbiC3t59TL5n.FinwWbESBaR9YPOy' @ 0 : 0; will stop at (end)
+2026/03/12-16:13:04.277799 78fd153fb6c0 Manual compaction at level-1 from '!folders!1e5Sn8OXxEQ57GSD' @ 72057594037927935 : 1 .. '!items.effects!zzb4IbiC3t59TL5n.FinwWbESBaR9YPOy' @ 0 : 0; will stop at '!items!doyYprYXWsK9xSzX' @ 2374 : 1
+2026/03/12-16:13:04.277805 78fd153fb6c0 Compacting 1@1 + 1@2 files
+2026/03/12-16:13:04.283013 78fd153fb6c0 Generated table #1456@1: 98 keys, 86118 bytes
+2026/03/12-16:13:04.283036 78fd153fb6c0 Compacted 1@1 + 1@2 files => 86118 bytes
+2026/03/12-16:13:04.285016 78fd153fb6c0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/03/12-16:13:04.285109 78fd153fb6c0 Delete type=2 #1455
+2026/03/12-16:13:04.285205 78fd153fb6c0 Delete type=2 #1191
+2026/03/12-16:13:04.285885 78fd153fb6c0 Manual compaction at level-1 from '!items!doyYprYXWsK9xSzX' @ 2374 : 1 .. '!items.effects!zzb4IbiC3t59TL5n.FinwWbESBaR9YPOy' @ 0 : 0; will stop at (end)
