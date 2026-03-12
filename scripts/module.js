@@ -1,69 +1,72 @@
 const MODULE_ID = 'the_void-br';
-const MODULE_PATH = `modules/${MODULE_ID}`;
 
-console.log(`${MODULE_ID} | Module JS Loaded`);
+console.log(`${MODULE_ID} | Script carregado.`);
 
+// Usamos o hook 'ready' para garantir que o sistema já carregou suas configurações
 Hooks.on('ready', async () => {
-    // Garante que só execute se o sistema for Daggerheart
     if (game.system.id !== 'daggerheart') return;
-    await registerVoidDomains();
+
+    // Apenas o mestre precisa rodar a lógica de registro
+    if (game.user.isGM) {
+        await registrarDominiosVoid();
+    }
 });
 
-async function registerVoidDomains() {
-    // 1. Identificar a chave correta da configuração de Homebrew
-    let settingKey = 'Homebrew';
+async function registrarDominiosVoid() {
+    // Identifica qual a chave correta da configuração (o sistema às vezes muda entre maiúsculo/minúsculo)
+    let chaveConfig = 'Homebrew';
     if (!game.settings.settings.has('daggerheart.Homebrew')) {
-        settingKey = 'homebrew';
+        chaveConfig = 'homebrew';
     }
 
-    // 2. Tentar obter as configurações atuais
-    let homebrewSettings;
     try {
-        homebrewSettings = game.settings.get('daggerheart', settingKey);
-    } catch (e) {
-        console.warn(`${MODULE_ID} | Não foi possível encontrar a configuração de Homebrew do Daggerheart.`);
-        return;
-    }
-    if (!homebrewSettings) return;
+        // Pega as configurações atuais de Homebrew do sistema
+        const configHomebrew = game.settings.get('daggerheart', chaveConfig);
+        
+        // No sistema Daggerheart, 'domains' é um objeto onde cada chave é o ID do domínio
+        let dominiosAtuais = configHomebrew.domains || {};
+        let houveMudanca = false;
 
-    // 3. Definir os dados dos novos domínios (com caminho CORRETO)
-    const domainData = {
-        'blood': {
-            id: 'sangue',
-            label: 'Sangue',
-            src: `${MODULE_PATH}/Imagens/Void/sangue-dom-6914b0d04de76.webp`
-        },
-        'dread': {
-            id: 'pavor',
-            label: 'Pavor',
-            src: `${MODULE_PATH}/Imagens/Void/pavor-dom-6914b0d04de76.webp`
+        // Definição dos seus domínios
+        const meusDominios = {
+            "sangue": {
+                "id": "sangue",
+                "label": "Sangue",
+                "src": `modules/${MODULE_ID}/Imagens/Void/sangue-dom.webp`
+            },
+            "pavor": {
+                "id": "pavor",
+                "label": "Pavor",
+                "src": `modules/${MODULE_ID}/Imagens/Void/pavor-dom.webp`
+            }
+        };
+
+        // Verifica se cada domínio já existe. Se não existir, adiciona.
+        for (let id in meusDominios) {
+            if (!dominiosAtuais[id]) {
+                dominiosAtuais[id] = meusDominios[id];
+                houveMudanca = true;
+                console.log(`${MODULE_ID} | Adicionando domínio: ${id}`);
+            }
         }
-    };
 
-    // 4. Verificar se os domínios já existem
-    let updates = false;
-    const currentDomains = { ...(homebrewSettings.domains || {}) };
-
-    for (const [key, data] of Object.entries(domainData)) {
-        if (!currentDomains[key]) {
-            console.log(`${MODULE_ID} | Registrando novo domínio: ${data.label}`);
-            currentDomains[key] = data;
-            updates = true;
-        }
-    }
-
-    // 5. Salvar se houver alterações
-    if (updates) {
-        try {
-            const newSettings = {
-                ...homebrewSettings,
-                domains: currentDomains
+        if (houveMudanca) {
+            // Cria um novo objeto de configuração para salvar
+            const novaConfig = {
+                ...configHomebrew,
+                domains: dominiosAtuais
             };
-            await game.settings.set('daggerheart', settingKey, newSettings);
-            ui.notifications.info(`${MODULE_ID} | Domínios Sangue e Pavor registrados com sucesso! ✅`);
-        } catch (err) {
-            console.error(`${MODULE_ID} | Erro ao atualizar as configurações:`, err);
-            ui.notifications.error(`${MODULE_ID} | Erro ao salvar os domínios. Veja o console.`);
+
+            // Salva no banco de dados do Foundry
+            await game.settings.set('daggerheart', chaveConfig, novaConfig);
+            
+            ui.notifications.info("The Void: Novos domínios registrados! Recarregando para aplicar...");
+            
+            // Recarrega após 1.5 segundos para o sistema ler a nova configuração
+            setTimeout(() => location.reload(), 1500);
         }
+
+    } catch (err) {
+        console.error(`${MODULE_ID} | Erro ao registrar domínios:`, err);
     }
 }
