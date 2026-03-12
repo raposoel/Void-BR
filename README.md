@@ -1,6 +1,6 @@
 # Void-BR
 
-<B>OS DOMÍNIOS DE PAVOR E SANGUE SÃO CRIADOS AUTOMATICAMENTES</B>
+<B>OS DOMÍNIOS DE PAVOR E SANGUE SÃO CRIADOS AUTOMATICAMENTE</B>
 
 Material do Void de Daggerheart, traduzido para o brasileiro. Sem invenção, só tradução.
 
