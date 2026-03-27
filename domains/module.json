@@ -1,0 +1,23 @@
+{
+  "id": "domain-art",
+  "title": "Domain Art Override",
+  "description": "<p>Substitui as imagens padrão de Domain Cards pelas artes oficiais.</p>",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "scripts": [
+    "init.js"
+  ],
+  "authors": [
+    {
+      "name": "Luiz Nogueira",
+      "url": "https://github.com/raposoel",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/raposoel/Domain-Art-Override",
+  "manifest": "https://raw.githubusercontent.com/raposoel/Domain-Art-Override/refs/heads/main/module.json",
+  "download": "https://codeload.github.com/raposoel/Domain-Art-Override/zip/main"
+}
