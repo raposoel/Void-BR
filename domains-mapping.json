@@ -1,0 +1,760 @@
+{
+  "daggerheart.domains": {
+"06UapZuaA5S6fAKl": {
+  "__DOCUMENT_NAME__": "Forager",
+  "domain": "modules/domain-art/domains/forager.webp"
+},
+"0kAVO6rordCfZqYP": {
+  "__DOCUMENT_NAME__": "Chain Lightning",
+  "domain": "modules/domain-art/domains/chain-lightning.webp"
+},
+"0vdpIn06ifF3xxqZ": {
+  "__DOCUMENT_NAME__": "Phantom Retreat",
+  "domain": "modules/domain-art/domains/phantom-retreat.webp"
+},
+"1ROT08E1UVBwHLAS": {
+  "__DOCUMENT_NAME__": "Wall Walk",
+  "domain": "modules/domain-art/domains/wall-walk.webp"
+},
+"1VXzwRbvbBj5bd5V": {
+  "__DOCUMENT_NAME__": "Book of Tyfar",
+  "domain": "modules/domain-art/domains/book-of-tyfar.webp"
+},
+"1p1cOmbnRd5CoKBp": {
+  "__DOCUMENT_NAME__": "Preservation Blast",
+  "domain": "modules/domain-art/domains/preservation-blast.webp"
+},
+"2ZeuCGVatQdPOVC6": {
+  "__DOCUMENT_NAME__": "Hypnotic Shimmer",
+  "domain": "modules/domain-art/domains/hypnotic-shimmer.webp"
+},
+"2ooUo2yoilGifY81": {
+  "__DOCUMENT_NAME__": "Reckless",
+  "domain": "modules/domain-art/domains/reckless.webp"
+},
+"38znCh6kHTkaPwYi": {
+  "__DOCUMENT_NAME__": "Deft Deceiver",
+  "domain": "modules/domain-art/domains/deft-deceiver.webp"
+},
+"3A7LZ1xmDEMGa165": {
+  "__DOCUMENT_NAME__": "Copycat",
+  "domain": "modules/domain-art/domains/copycat.webp"
+},
+"3zvjgZ5Od343wHzx": {
+  "__DOCUMENT_NAME__": "Gore and Glory",
+  "domain": "modules/domain-art/domains/gore-and-glory.webp"
+},
+"4uAFGp3LxiC07woC": {
+  "__DOCUMENT_NAME__": "Salvation Beam",
+  "domain": "modules/domain-art/domains/salvation-beam.webp"
+},
+"54GUjNuBEy7xdzMz": {
+  "__DOCUMENT_NAME__": "Flight",
+  "domain": "modules/domain-art/domains/flight.webp"
+},
+"5EP2Lgf7ojfrc0Is": {
+  "__DOCUMENT_NAME__": "Cinder Grasp",
+  "domain": "modules/domain-art/domains/cinder-grasp.webp"
+},
+"5PvMQKCjrgSxzstn": {
+  "__DOCUMENT_NAME__": "Arcana-Touched",
+  "domain": "modules/domain-art/domains/arcana-touched.webp"
+},
+"5b1awkgTmMp3FVrm": {
+  "__DOCUMENT_NAME__": "Strategic Approach",
+  "domain": "modules/domain-art/domains/strategic-approach.webp"
+},
+"5bBU9jWHOuOY12lR": {
+  "__DOCUMENT_NAME__": "Scramble",
+  "domain": "modules/domain-art/domains/scramble.webp"
+},
+"62Sj67PdPFzwWVe3": {
+  "__DOCUMENT_NAME__": "Eclipse",
+  "domain": "modules/domain-art/domains/eclipse.webp"
+},
+"6dhqo1kzGxejCjHa": {
+  "__DOCUMENT_NAME__": "Counterspell",
+  "domain": "modules/domain-art/domains/counterspell.webp"
+},
+"7Pu83ABdMukTxu3e": {
+  "__DOCUMENT_NAME__": "Codex-Touched",
+  "domain": "modules/domain-art/domains/codex-touched.webp"
+},
+"7b0mzV5QMPjVPT4o": {
+  "__DOCUMENT_NAME__": "Through Your Eyes",
+  "domain": "modules/domain-art/domains/through-your-eyes.webp"
+},
+"8UANBgSdhMZ0sqfO": {
+  "__DOCUMENT_NAME__": "Breaking Blow",
+  "domain": "modules/domain-art/domains/breaking-blow.webp"
+},
+"8nRle10pw1HO8QVu": {
+  "__DOCUMENT_NAME__": "Share the Burden",
+  "domain": "modules/domain-art/domains/share-the-burden.webp"
+},
+"9DwSxHoUwl8Kxj3n": {
+  "__DOCUMENT_NAME__": "Wrangle",
+  "domain": "modules/domain-art/domains/wrangle.webp"
+},
+"9QElncQUDSakuSdR": {
+  "__DOCUMENT_NAME__": "Untouchable",
+  "domain": "modules/domain-art/domains/untouchable.webp"
+},
+"9a6xP5pxhVvdugk9": {
+  "__DOCUMENT_NAME__": "Plant Dominion",
+  "domain": "modules/domain-art/domains/plant-dominion.webp"
+},
+"9dFvcM1i3bxG3BSA": {
+  "__DOCUMENT_NAME__": "Wild Fortress",
+  "domain": "modules/domain-art/domains/wild-fortress.webp"
+},
+"A0XzD6MmBXYdk7Ps": {
+  "__DOCUMENT_NAME__": "Shadowhunter",
+  "domain": "modules/domain-art/domains/shadowhunter.webp"
+},
+"ABp9pUfBS69NomTD": {
+  "__DOCUMENT_NAME__": "Critical Inspiration",
+  "domain": "modules/domain-art/domains/critical-inspiration.webp"
+},
+"AIbHfryMA2Rvs1ut": {
+  "__DOCUMENT_NAME__": "Banish",
+  "domain": "modules/domain-art/domains/banish.webp"
+},
+"B4choj481tqajWb9": {
+  "__DOCUMENT_NAME__": "Thought Delver",
+  "domain": "modules/domain-art/domains/thought-delver.webp"
+},
+"B5HXqYRJiL3xMNKT": {
+  "__DOCUMENT_NAME__": "Glyph of Nightfall",
+  "domain": "modules/domain-art/domains/glyph-of-nightfall.webp"
+},
+"BFWN2cObMdlk9uVz": {
+  "__DOCUMENT_NAME__": "Get Back Up",
+  "domain": "modules/domain-art/domains/get-back-up.webp"
+},
+"BNevJyGk7hmN7XOY": {
+  "__DOCUMENT_NAME__": "Bolt Beacon",
+  "domain": "modules/domain-art/domains/bolt-beacon.webp"
+},
+"BdePs1ZWpZTZvY1Z": {
+  "__DOCUMENT_NAME__": "Lean on Me",
+  "domain": "modules/domain-art/domains/lean-on-me.webp"
+},
+"C0qLOwSSvZ6PG3Ws": {
+  "__DOCUMENT_NAME__": "Earthquake",
+  "domain": "modules/domain-art/domains/earthquake.webp"
+},
+"CUIQmrPjf9VCHmwJ": {
+  "__DOCUMENT_NAME__": "Unbreakable",
+  "domain": "modules/domain-art/domains/unbreakable.webp"
+},
+"DjnKlZQYaWdQGKcK": {
+  "__DOCUMENT_NAME__": "Wild Surge",
+  "domain": "modules/domain-art/domains/wild-surge.webp"
+},
+"Ef1JsUG50LIoKx2F": {
+  "__DOCUMENT_NAME__": "Battle Cry",
+  "domain": "modules/domain-art/domains/battle-cry.webp"
+},
+"F2m9wvZ3v5c3yCtv": {
+  "__DOCUMENT_NAME__": "Fane of the Wilds",
+  "domain": "modules/domain-art/domains/fane-of-the-wilds.webp"
+},
+"FXLsB3QbQvTtqX5B": {
+  "__DOCUMENT_NAME__": "Midnight Spirit",
+  "domain": "modules/domain-art/domains/midnight-spirit.webp"
+},
+"FgzBppvLjXr0UbUI": {
+  "__DOCUMENT_NAME__": "Telekinesis",
+  "domain": "modules/domain-art/domains/telekinesis.webp"
+},
+"GBMIElIpk4cvk1Bd": {
+  "__DOCUMENT_NAME__": "Vanishing Dodge",
+  "domain": "modules/domain-art/domains/vanishing-dodge.webp"
+},
+"GEhBUmv9Bj7oJfHk": {
+  "__DOCUMENT_NAME__": "Rune Ward",
+  "domain": "modules/domain-art/domains/rune-ward.webp"
+},
+"GRL0cvs96vrTDckZ": {
+  "__DOCUMENT_NAME__": "Rage Up",
+  "domain": "modules/domain-art/domains/rage-up.webp"
+},
+"Gb5bqpFSBiuBxUix": {
+  "__DOCUMENT_NAME__": "Blade-Touched",
+  "domain": "modules/domain-art/domains/blade-touched.webp"
+},
+"GlRm1Dxlc0Z1b04o": {
+  "__DOCUMENT_NAME__": "Healing Field",
+  "domain": "modules/domain-art/domains/healing-field.webp"
+},
+"H6TqCJBaa1eWEQ1z": {
+  "__DOCUMENT_NAME__": "Swift Step",
+  "domain": "modules/domain-art/domains/swift-step.webp"
+},
+"HTv9QEPS466WsstP": {
+  "__DOCUMENT_NAME__": "Tell No Lies",
+  "domain": "modules/domain-art/domains/tell-no-lies.webp"
+},
+"HdgZUfWd7Hyj7nBW": {
+  "__DOCUMENT_NAME__": "Pick and Pull",
+  "domain": "modules/domain-art/domains/pick-and-pull.webp"
+},
+"HnPwVrWblYa9hwSt": {
+  "__DOCUMENT_NAME__": "Teleport",
+  "domain": "modules/domain-art/domains/teleport.webp"
+},
+"HtWx5IIemCoorMj2": {
+  "__DOCUMENT_NAME__": "Rejuvenation Barrier",
+  "domain": "modules/domain-art/domains/rejuvenation-barrier.webp"
+},
+"HufF5KzuNfEb9RTi": {
+  "__DOCUMENT_NAME__": "Goad Them On",
+  "domain": "modules/domain-art/domains/goad-them-on.webp"
+},
+"I7pNsQ9Yx6mRJX4V": {
+  "__DOCUMENT_NAME__": "Onslaught",
+  "domain": "modules/domain-art/domains/onslaught.webp"
+},
+"IqxzvvjZiYbgx21A": {
+  "__DOCUMENT_NAME__": "Notorious",
+  "domain": "modules/domain-art/domains/notorious.webp"
+},
+"J1ovx2FpNDvPq1o6": {
+  "__DOCUMENT_NAME__": "Book of Yarrow",
+  "domain": "modules/domain-art/domains/book-of-yarrow.webp"
+},
+"JT5dM3gVL6chDBYU": {
+  "__DOCUMENT_NAME__": "Splendor-Touched",
+  "domain": "modules/domain-art/domains/splendor-touched.webp"
+},
+"Jkp6cMDiHHaBZQRS": {
+  "__DOCUMENT_NAME__": "Conjured Steeds",
+  "domain": "modules/domain-art/domains/conjured-steeds.webp"
+},
+"JrdZedm1BFKeV7Yb": {
+  "__DOCUMENT_NAME__": "Troublemaker",
+  "domain": "modules/domain-art/domains/troublemaker.webp"
+},
+"JrkUMTzaFmQNBHVm": {
+  "__DOCUMENT_NAME__": "Forest Sprites",
+  "domain": "modules/domain-art/domains/forest-sprites.webp"
+},
+"JwfhtgmmuRxg4zhI": {
+  "__DOCUMENT_NAME__": "Shrug It Off",
+  "domain": "modules/domain-art/domains/shrug-it-off.webp"
+},
+"JzSvxy9Mu3RJp1jV": {
+  "__DOCUMENT_NAME__": "Arcane Reflection",
+  "domain": "modules/domain-art/domains/arcane-reflection.webp"
+},
+"K8oFepK24UVsAX8B": {
+  "__DOCUMENT_NAME__": "Divination",
+  "domain": "modules/domain-art/domains/divination.webp"
+},
+"KAuNb51AwhD8KEXk": {
+  "__DOCUMENT_NAME__": "Grace-Touched",
+  "domain": "modules/domain-art/domains/grace-touched.webp"
+},
+"KHkzA4Zrw8EWN1CH": {
+  "__DOCUMENT_NAME__": "Invisibility",
+  "domain": "modules/domain-art/domains/invisibility.webp"
+},
+"KOf6LLpMRNwjezDx": {
+  "__DOCUMENT_NAME__": "I Am Your Shield",
+  "domain": "modules/domain-art/domains/i-am-your-shield.webp"
+},
+"Kp6RejHGimnuoBom": {
+  "__DOCUMENT_NAME__": "I See It Coming",
+  "domain": "modules/domain-art/domains/i-see-it-coming.webp"
+},
+"LWRkhNY968Cu2Zl5": {
+  "__DOCUMENT_NAME__": "Signature Move",
+  "domain": "modules/domain-art/domains/signature-move.webp"
+},
+"LzVpMkD5I4QeaIHf": {
+  "__DOCUMENT_NAME__": "Force of Nature",
+  "domain": "modules/domain-art/domains/force-of-nature.webp"
+},
+"MCgNRlh0s5XUPCfl": {
+  "__DOCUMENT_NAME__": "Reaper’s Strike",
+  "domain": "modules/domain-art/domains/reapers-strike.webp"
+},
+"MMl7abdGRLl7TJLO": {
+  "__DOCUMENT_NAME__": "Frenzy",
+  "domain": "modules/domain-art/domains/frenzy.webp"
+},
+"McdncxmO9K1YNP7Y": {
+  "__DOCUMENT_NAME__": "Never Upstaged",
+  "domain": "modules/domain-art/domains/never-upstaged.webp"
+},
+"NIUhmuQGwbb3UClZ": {
+  "__DOCUMENT_NAME__": "Stealth Expertise",
+  "domain": "modules/domain-art/domains/stealth-expertise.webp"
+},
+"Nbw6Jnh1vRZzwHQI": {
+  "__DOCUMENT_NAME__": "Final Words",
+  "domain": "modules/domain-art/domains/final-words.webp"
+},
+"NeEOghgfyDUBTwBG": {
+  "__DOCUMENT_NAME__": "Battle-Hardened",
+  "domain": "modules/domain-art/domains/battle-hardened.webp"
+},
+"O38MQMhJWdZnXi6b": {
+  "__DOCUMENT_NAME__": "Know Thy Enemy",
+  "domain": "modules/domain-art/domains/know-thy-enemy.webp"
+},
+"ON5bvnoQBy0SYc9Y": {
+  "__DOCUMENT_NAME__": "Bone-Touched",
+  "domain": "modules/domain-art/domains/bone-touched.webp"
+},
+"OszbCj0jTqq2ADx9": {
+  "__DOCUMENT_NAME__": "Life Ward",
+  "domain": "modules/domain-art/domains/life-ward.webp"
+},
+"P0ezScyQ5t8ruByf": {
+  "__DOCUMENT_NAME__": "Battle Monster",
+  "domain": "modules/domain-art/domains/battle-monster.webp"
+},
+"QED2PDYePOSTbLtC": {
+  "__DOCUMENT_NAME__": "Soothing Speech",
+  "domain": "modules/domain-art/domains/soothing-speech.webp"
+},
+"QXs4vssSqNGQu5b8": {
+  "__DOCUMENT_NAME__": "Brace",
+  "domain": "modules/domain-art/domains/brace.webp"
+},
+"Qu0iA4s3Xov10Erd": {
+  "__DOCUMENT_NAME__": "Blink Out",
+  "domain": "modules/domain-art/domains/blink-out.webp"
+},
+"R0LNheiZycZlZzV3": {
+  "__DOCUMENT_NAME__": "Book of Grynn",
+  "domain": "modules/domain-art/domains/book-of-grynn.webp"
+},
+"R5GYUalYXLLFRlNl": {
+  "__DOCUMENT_NAME__": "Chokehold",
+  "domain": "modules/domain-art/domains/chokehold.webp"
+},
+"R8NDiJXJWmC48WSr": {
+  "__DOCUMENT_NAME__": "Confusing Aura",
+  "domain": "modules/domain-art/domains/confusing-aura.webp"
+},
+"RiuN0lMlfoTAhLJz": {
+  "__DOCUMENT_NAME__": "Sigil of Retribution",
+  "domain": "modules/domain-art/domains/sigil-of-retribution.webp"
+},
+"SDjjV61TC1NceV1m": {
+  "__DOCUMENT_NAME__": "Twilight Toll",
+  "domain": "modules/domain-art/domains/twilight-toll.webp"
+},
+"SZMNR3uGNinJcN4N": {
+  "__DOCUMENT_NAME__": "Book of Ronin",
+  "domain": "modules/domain-art/domains/book-of-ronin.webp"
+},
+"SgvjJfMyubZowPxS": {
+  "__DOCUMENT_NAME__": "Full Surge",
+  "domain": "modules/domain-art/domains/full-surge.webp"
+},
+"TGjR4vJVNbQRV8zr": {
+  "__DOCUMENT_NAME__": "Mending Touch",
+  "domain": "modules/domain-art/domains/mending-touch.webp"
+},
+"TV56wSysbU5xAlOa": {
+  "__DOCUMENT_NAME__": "Uncanny Disguise",
+  "domain": "modules/domain-art/domains/uncanny-disguise.webp"
+},
+"TYKfM3H9vBXyWiH4": {
+  "__DOCUMENT_NAME__": "Splintering Strike",
+  "domain": "modules/domain-art/domains/splintering-strike.webp"
+},
+"Tag303LoRNC5zGgl": {
+  "__DOCUMENT_NAME__": "Natural Familiar",
+  "domain": "modules/domain-art/domains/natural-familiar.webp"
+},
+"TtGOtWkbr23VhHfH": {
+  "__DOCUMENT_NAME__": "Manifest Wall",
+  "domain": "modules/domain-art/domains/manifest-wall.webp"
+},
+"U1uWJE94HZVudujz": {
+  "__DOCUMENT_NAME__": "Smite",
+  "domain": "modules/domain-art/domains/smite.webp"
+},
+"Ucenef6JpjQxwXni": {
+  "__DOCUMENT_NAME__": "Rain of Blades",
+  "domain": "modules/domain-art/domains/rain-of-blades.webp"
+},
+"VKAHS6eWz28ukcDs": {
+  "__DOCUMENT_NAME__": "Boost",
+  "domain": "modules/domain-art/domains/boost.webp"
+},
+"VOIgm2j2Ijszwc5m": {
+  "__DOCUMENT_NAME__": "Book of Vyola",
+  "domain": "modules/domain-art/domains/book-of-vyola.webp"
+},
+"VOSFaQHZbmhMyXwi": {
+  "__DOCUMENT_NAME__": "Sage-Touched",
+  "domain": "modules/domain-art/domains/sage-touched.webp"
+},
+"VZ2b4zfRzV73XTuT": {
+  "__DOCUMENT_NAME__": "Gifted Tracker",
+  "domain": "modules/domain-art/domains/gifted-tracker.webp"
+},
+"WChWEH36lUpXAC0K": {
+  "__DOCUMENT_NAME__": "Tactician",
+  "domain": "modules/domain-art/domains/tactician.webp"
+},
+"WTlhnQMajc1r8i50": {
+  "__DOCUMENT_NAME__": "Healing Hands",
+  "domain": "modules/domain-art/domains/healing-hands.webp"
+},
+"WnGldYhJPDhx8v9X": {
+  "__DOCUMENT_NAME__": "Ground Pound",
+  "domain": "modules/domain-art/domains/ground-pound.webp"
+},
+"WtwSWXTRZa7QVvmo": {
+  "__DOCUMENT_NAME__": "Book of Norai",
+  "domain": "modules/domain-art/domains/book-of-norai.webp"
+},
+"X7YaZgFieBlqaPdZ": {
+  "__DOCUMENT_NAME__": "Tempest",
+  "domain": "modules/domain-art/domains/tempest.webp"
+},
+"X8OfkEoI5gLTRf1B": {
+  "__DOCUMENT_NAME__": "Invigoration",
+  "domain": "modules/domain-art/domains/invigoration.webp"
+},
+"XTT8c8uJ4D7fvtbL": {
+  "__DOCUMENT_NAME__": "Inevitable",
+  "domain": "modules/domain-art/domains/inevitable.webp"
+},
+"XtSc0jIJLOoMTMYS": {
+  "__DOCUMENT_NAME__": "Healing Strike",
+  "domain": "modules/domain-art/domains/healing-strike.webp"
+},
+"Y08dLFuPXsgeRrHi": {
+  "__DOCUMENT_NAME__": "A Soldier’s Bond",
+  "domain": "modules/domain-art/domains/a-soldiers-bond.webp"
+},
+"YNOCNmZ96sCp9NEr": {
+  "__DOCUMENT_NAME__": "Astral Projection",
+  "domain": "modules/domain-art/domains/astral-projection.webp"
+},
+"YWCRplmtwpCjpq5i": {
+  "__DOCUMENT_NAME__": "Lead by Example",
+  "domain": "modules/domain-art/domains/lead-by-example.webp"
+},
+"YtZzYBtR0yLPPA93": {
+  "__DOCUMENT_NAME__": "Book of Ava",
+  "domain": "modules/domain-art/domains/book-of-ava.webp"
+},
+"Zhw7PtK8nMPlsOqD": {
+  "__DOCUMENT_NAME__": "Cloaking Blast",
+  "domain": "modules/domain-art/domains/cloaking-blast.webp"
+},
+"ZjAdi1FSNCDDHI3X": {
+  "__DOCUMENT_NAME__": "Words of Discord",
+  "domain": "modules/domain-art/domains/words-of-discord.webp"
+},
+"Zp2S2EnLS5Iv3XuT": {
+  "__DOCUMENT_NAME__": "Adjust Reality",
+  "domain": "modules/domain-art/domains/adjust-reality.webp"
+},
+"a8lFiKX1o8T924ze": {
+  "__DOCUMENT_NAME__": "Enrapture",
+  "domain": "modules/domain-art/domains/enrapture.webp"
+},
+"aC43NiFQLpOADyjO": {
+  "__DOCUMENT_NAME__": "Premonition",
+  "domain": "modules/domain-art/domains/premonition.webp"
+},
+"aQz8jKkCd8M9aKMA": {
+  "__DOCUMENT_NAME__": "Body Basher",
+  "domain": "modules/domain-art/domains/body-basher.webp"
+},
+"aknDDYtN7EObv94t": {
+  "__DOCUMENT_NAME__": "Book of Vagras",
+  "domain": "modules/domain-art/domains/book-of-vagras.webp"
+},
+"anO0arioUy7I5zBg": {
+  "__DOCUMENT_NAME__": "Whirlwind",
+  "domain": "modules/domain-art/domains/whirlwind.webp"
+},
+"atWLorlCOxcrq8WB": {
+  "__DOCUMENT_NAME__": "Nature’s Tongue",
+  "domain": "modules/domain-art/domains/natures-tongue.webp"
+},
+"bap1eCWryPNowbyo": {
+  "__DOCUMENT_NAME__": "Cruel Precision",
+  "domain": "modules/domain-art/domains/cruel-precision.webp"
+},
+"cWRFHJdxEZ0M1dAg": {
+  "__DOCUMENT_NAME__": "Book of Korvax",
+  "domain": "modules/domain-art/domains/book-of-korvax.webp"
+},
+"cWu1o82ZF7GvnbXc": {
+  "__DOCUMENT_NAME__": "Inspirational Words",
+  "domain": "modules/domain-art/domains/inspirational-words.webp"
+},
+"cy8GjBPGc9w9RaGO": {
+  "__DOCUMENT_NAME__": "Armorer",
+  "domain": "modules/domain-art/domains/armorer.webp"
+},
+"dT95m0Jam8sWbeuC": {
+  "__DOCUMENT_NAME__": "Mass Disguise",
+  "domain": "modules/domain-art/domains/mass-disguise.webp"
+},
+"db4xV3YErHRslbVE": {
+  "__DOCUMENT_NAME__": "Shape Material",
+  "domain": "modules/domain-art/domains/shape-material.webp"
+},
+"dc4rAXlv95srZUct": {
+  "__DOCUMENT_NAME__": "Deft Maneuvers",
+  "domain": "modules/domain-art/domains/deft-maneuvers.webp"
+},
+"df4iRqQzRntrF6Qw": {
+  "__DOCUMENT_NAME__": "Book of Illiat",
+  "domain": "modules/domain-art/domains/book-of-illiat.webp"
+},
+"eq8VNqYMRHhF9xw9": {
+  "__DOCUMENT_NAME__": "Book of Sitil",
+  "domain": "modules/domain-art/domains/book-of-sitil.webp"
+},
+"ewhIzXQ2h9fS9I8c": {
+  "__DOCUMENT_NAME__": "Spellcharge",
+  "domain": "modules/domain-art/domains/spellcharge.webp"
+},
+"faU0XkJCbar69PiN": {
+  "__DOCUMENT_NAME__": "Redirect",
+  "domain": "modules/domain-art/domains/redirect.webp"
+},
+"ffPbSEvLuFrFsMxl": {
+  "__DOCUMENT_NAME__": "Second Wind",
+  "domain": "modules/domain-art/domains/second-wind.webp"
+},
+"gFMx08ogQ8hS2Obi": {
+  "__DOCUMENT_NAME__": "Book of Homet",
+  "domain": "modules/domain-art/domains/book-of-homet.webp"
+},
+"gV4L5ZZmfPrEbIDh": {
+  "__DOCUMENT_NAME__": "Veil of Night",
+  "domain": "modules/domain-art/domains/veil-of-night.webp"
+},
+"gZOMzskSOfeiXn54": {
+  "__DOCUMENT_NAME__": "Sensory Projection",
+  "domain": "modules/domain-art/domains/sensory-projection.webp"
+},
+"gsiQFT6q3WOgqerJ": {
+  "__DOCUMENT_NAME__": "Recovery",
+  "domain": "modules/domain-art/domains/recovery.webp"
+},
+"gwmYasmfgXZ7tFS6": {
+  "__DOCUMENT_NAME__": "Hush",
+  "domain": "modules/domain-art/domains/hush.webp"
+},
+"hZJp9mdkMnqKDROe": {
+  "__DOCUMENT_NAME__": "Falling Sky",
+  "domain": "modules/domain-art/domains/falling-sky.webp"
+},
+"iEBLySZD9z8CLdz7": {
+  "__DOCUMENT_NAME__": "Overwhelming Aura",
+  "domain": "modules/domain-art/domains/overwhelming-aura.webp"
+},
+"iQhgqmLwhcSTYnvr": {
+  "__DOCUMENT_NAME__": "Specter of the Dark",
+  "domain": "modules/domain-art/domains/specter-of-the-dark.webp"
+},
+"iYNVTB7uAD1FTCZu": {
+  "__DOCUMENT_NAME__": "Reassurance",
+  "domain": "modules/domain-art/domains/reassurance.webp"
+},
+"jSQsSP61CX4MhSN7": {
+  "__DOCUMENT_NAME__": "Ferocity",
+  "domain": "modules/domain-art/domains/ferocity.webp"
+},
+"k1AtYd3lSchIymBr": {
+  "__DOCUMENT_NAME__": "Valor-Touched",
+  "domain": "modules/domain-art/domains/valor-touched.webp"
+},
+"kVkoCLBXLAIifqpz": {
+  "__DOCUMENT_NAME__": "Transcendent Union",
+  "domain": "modules/domain-art/domains/transcendent-union.webp"
+},
+"kdFoLo3KXwn4LqTG": {
+  "__DOCUMENT_NAME__": "Hold the Line",
+  "domain": "modules/domain-art/domains/hold-the-line.webp"
+},
+"kguhWlidhxe2GbT0": {
+  "__DOCUMENT_NAME__": "Shadowbind",
+  "domain": "modules/domain-art/domains/shadowbind.webp"
+},
+"kja5qvh4rdeDBB96": {
+  "__DOCUMENT_NAME__": "Disintegration Wave",
+  "domain": "modules/domain-art/domains/disintegration-wave.webp"
+},
+"klahWDFwihqqEhXP": {
+  "__DOCUMENT_NAME__": "Encore",
+  "domain": "modules/domain-art/domains/encore.webp"
+},
+"l5D9kq901JDESaXw": {
+  "__DOCUMENT_NAME__": "Bare Bones",
+  "domain": "modules/domain-art/domains/bare-bones.webp"
+},
+"lOZaRb4fCVgQsWB5": {
+  "__DOCUMENT_NAME__": "Zone of Protection",
+  "domain": "modules/domain-art/domains/zone-of-protection.webp"
+},
+"lRHo6ZkK1zybeEoG": {
+  "__DOCUMENT_NAME__": "Stunning Sunlight",
+  "domain": "modules/domain-art/domains/stunning-sunlight.webp"
+},
+"lmBLMPuR8qLbuzNf": {
+  "__DOCUMENT_NAME__": "Safe Haven",
+  "domain": "modules/domain-art/domains/safe-haven.webp"
+},
+"n0P3VS1WfxvmXbB6": {
+  "__DOCUMENT_NAME__": "Towering Stalk",
+  "domain": "modules/domain-art/domains/towering-stalk.webp"
+},
+"nCNCqSH7UgW4O3To": {
+  "__DOCUMENT_NAME__": "Glancing Blow",
+  "domain": "modules/domain-art/domains/glancing-blow.webp"
+},
+"o62i0QdbUDIiAhSq": {
+  "__DOCUMENT_NAME__": "Unleash Chaos",
+  "domain": "modules/domain-art/domains/unleash-chaos.webp"
+},
+"oDIZoC4l19Nli0Fj": {
+  "__DOCUMENT_NAME__": "Rise Up",
+  "domain": "modules/domain-art/domains/rise-up.webp"
+},
+"oUipGK84E2KjoKqh": {
+  "__DOCUMENT_NAME__": "Thorn Skin",
+  "domain": "modules/domain-art/domains/thorn-skin.webp"
+},
+"oVa49lI107eZILZr": {
+  "__DOCUMENT_NAME__": "Fortified Armor",
+  "domain": "modules/domain-art/domains/fortified-armor.webp"
+},
+"oVs2MSC6Uf5GbgEG": {
+  "__DOCUMENT_NAME__": "Book of Exota",
+  "domain": "modules/domain-art/domains/book-of-exota.webp"
+},
+"pcbYD33rBBdAo5f9": {
+  "__DOCUMENT_NAME__": "Rousing Strike",
+  "domain": "modules/domain-art/domains/rousing-strike.webp"
+},
+"qJaSNTuDfbPVr8Lb": {
+  "__DOCUMENT_NAME__": "Corrosive Projectile",
+  "domain": "modules/domain-art/domains/corrosive-projectile.webp"
+},
+"qvpvTnkAoRn9vYO4": {
+  "__DOCUMENT_NAME__": "Vicious Entangle",
+  "domain": "modules/domain-art/domains/vicious-entangle.webp"
+},
+"rZPH0BY8Sznc9sFG": {
+  "__DOCUMENT_NAME__": "Conjure Swarm",
+  "domain": "modules/domain-art/domains/conjure-swarm.webp"
+},
+"rfIv6lln40Fh6EIl": {
+  "__DOCUMENT_NAME__": "Shield Aura",
+  "domain": "modules/domain-art/domains/shield-aura.webp"
+},
+"rnejRbUQsNGX1GMC": {
+  "__DOCUMENT_NAME__": "Champion’s Edge",
+  "domain": "modules/domain-art/domains/champions-edge.webp"
+},
+"s3zRsOMeUkuDwgd8": {
+  "__DOCUMENT_NAME__": "Unyielding Armor",
+  "domain": "modules/domain-art/domains/unyielding-armor.webp"
+},
+"sWUlSPOJEaXyQLCj": {
+  "__DOCUMENT_NAME__": "Vitality",
+  "domain": "modules/domain-art/domains/vitality.webp"
+},
+"stId5syX7YpP2JGz": {
+  "__DOCUMENT_NAME__": "Support Tank",
+  "domain": "modules/domain-art/domains/support-tank.webp"
+},
+"t3RRGH6mMYYJJCcF": {
+  "__DOCUMENT_NAME__": "Voice of Reason",
+  "domain": "modules/domain-art/domains/voice-of-reason.webp"
+},
+"tNzFNlVHghloKsFi": {
+  "__DOCUMENT_NAME__": "Endless Charisma",
+  "domain": "modules/domain-art/domains/endless-charisma.webp"
+},
+"tceJDcCUefrMS2Ov": {
+  "__DOCUMENT_NAME__": "Rapid Riposte",
+  "domain": "modules/domain-art/domains/rapid-riposte.webp"
+},
+"tdsL00yTSLNgZWs6": {
+  "__DOCUMENT_NAME__": "Bold Presence",
+  "domain": "modules/domain-art/domains/bold-presence.webp"
+},
+"uSyGKVxOJcnp28po": {
+  "__DOCUMENT_NAME__": "Midnight-Touched",
+  "domain": "modules/domain-art/domains/midnight-touched.webp"
+},
+"ubpixIgZrJXKyM3b": {
+  "__DOCUMENT_NAME__": "Mass Enrapture",
+  "domain": "modules/domain-art/domains/mass-enrapture.webp"
+},
+"vd5STqX29RpYbGxa": {
+  "__DOCUMENT_NAME__": "Rift Walker",
+  "domain": "modules/domain-art/domains/rift-walker.webp"
+},
+"wOQLu7nLMQ7v6Ogw": {
+  "__DOCUMENT_NAME__": "Floating Eye",
+  "domain": "modules/domain-art/domains/floating-eye.webp"
+},
+"wQ53ImDswEHv5SGQ": {
+  "__DOCUMENT_NAME__": "Versatile Fighter",
+  "domain": "modules/domain-art/domains/versatile-fighter.webp"
+},
+"wUQFsRtww18naYaq": {
+  "__DOCUMENT_NAME__": "Restoration",
+  "domain": "modules/domain-art/domains/restoration.webp"
+},
+"x0FVGE1YbfXalJiw": {
+  "__DOCUMENT_NAME__": "Death Grip",
+  "domain": "modules/domain-art/domains/death-grip.webp"
+},
+"xFOSn8IVVNizgHFq": {
+  "__DOCUMENT_NAME__": "Deathrun",
+  "domain": "modules/domain-art/domains/deathrun.webp"
+},
+"xheQZOIYp0ERQhT9": {
+  "__DOCUMENT_NAME__": "Not Good Enough",
+  "domain": "modules/domain-art/domains/not-good-enough.webp"
+},
+"xxZOXC4tiZQ6kg1e": {
+  "__DOCUMENT_NAME__": "Deadly Focus",
+  "domain": "modules/domain-art/domains/deadly-focus.webp"
+},
+"yAGTwXHUC3qxpTeK": {
+  "__DOCUMENT_NAME__": "Master of the Craft",
+  "domain": "modules/domain-art/domains/master-of-the-craft.webp"
+},
+"yL2qrSWmTwXVOySH": {
+  "__DOCUMENT_NAME__": "Dark Whispers",
+  "domain": "modules/domain-art/domains/dark-whispers.webp"
+},
+"z30ciOwQI7g3tHla": {
+  "__DOCUMENT_NAME__": "Resurrection",
+  "domain": "modules/domain-art/domains/resurrection.webp"
+},
+"z8FFPhDh2SdFkFfS": {
+  "__DOCUMENT_NAME__": "Forceful Push",
+  "domain": "modules/domain-art/domains/forceful-push.webp"
+},
+"zbxPl81kbWEegKQN": {
+  "__DOCUMENT_NAME__": "On the Brink",
+  "domain": "modules/domain-art/domains/on-the-brink.webp"
+},
+"zcldCuqOg3dphUVI": {
+  "__DOCUMENT_NAME__": "Night Terror",
+  "domain": "modules/domain-art/domains/night-terror.webp"
+}
+  }
+}
