@@ -2,759 +2,1741 @@
   "daggerheart.domains": {
 "06UapZuaA5S6fAKl": {
   "__DOCUMENT_NAME__": "Forager",
-  "domain": "modules/${MODULE_ID}/domains/forager.webp"
+  "domain": "modules/the_void-br/domains/forager.webp"
 },
 "0kAVO6rordCfZqYP": {
   "__DOCUMENT_NAME__": "Chain Lightning",
-  "domain": "modules/${MODULE_ID}/domains/chain-lightning.webp"
+  "domain": "modules/the_void-br/domains/chain-lightning.webp"
 },
 "0vdpIn06ifF3xxqZ": {
   "__DOCUMENT_NAME__": "Phantom Retreat",
-  "domain": "modules/${MODULE_ID}/domains/phantom-retreat.webp"
+  "domain": "modules/the_void-br/domains/phantom-retreat.webp"
 },
 "1ROT08E1UVBwHLAS": {
   "__DOCUMENT_NAME__": "Wall Walk",
-  "domain": "modules/${MODULE_ID}/domains/wall-walk.webp"
+  "domain": "modules/the_void-br/domains/wall-walk.webp"
 },
 "1VXzwRbvbBj5bd5V": {
   "__DOCUMENT_NAME__": "Book of Tyfar",
-  "domain": "modules/${MODULE_ID}/domains/book-of-tyfar.webp"
+  "domain": "modules/the_void-br/domains/book-of-tyfar.webp"
 },
 "1p1cOmbnRd5CoKBp": {
   "__DOCUMENT_NAME__": "Preservation Blast",
-  "domain": "modules/${MODULE_ID}/domains/preservation-blast.webp"
+  "domain": "modules/the_void-br/domains/preservation-blast.webp"
 },
 "2ZeuCGVatQdPOVC6": {
   "__DOCUMENT_NAME__": "Hypnotic Shimmer",
-  "domain": "modules/${MODULE_ID}/domains/hypnotic-shimmer.webp"
+  "domain": "modules/the_void-br/domains/hypnotic-shimmer.webp"
 },
 "2ooUo2yoilGifY81": {
   "__DOCUMENT_NAME__": "Reckless",
-  "domain": "modules/${MODULE_ID}/domains/reckless.webp"
+  "domain": "modules/the_void-br/domains/reckless.webp"
 },
 "38znCh6kHTkaPwYi": {
   "__DOCUMENT_NAME__": "Deft Deceiver",
-  "domain": "modules/${MODULE_ID}/domains/deft-deceiver.webp"
+  "domain": "modules/the_void-br/domains/deft-deceiver.webp"
 },
 "3A7LZ1xmDEMGa165": {
   "__DOCUMENT_NAME__": "Copycat",
-  "domain": "modules/${MODULE_ID}/domains/copycat.webp"
+  "domain": "modules/the_void-br/domains/copycat.webp"
 },
 "3zvjgZ5Od343wHzx": {
   "__DOCUMENT_NAME__": "Gore and Glory",
-  "domain": "modules/${MODULE_ID}/domains/gore-and-glory.webp"
+  "domain": "modules/the_void-br/domains/gore-and-glory.webp"
 },
 "4uAFGp3LxiC07woC": {
   "__DOCUMENT_NAME__": "Salvation Beam",
-  "domain": "modules/${MODULE_ID}/domains/salvation-beam.webp"
+  "domain": "modules/the_void-br/domains/salvation-beam.webp"
 },
 "54GUjNuBEy7xdzMz": {
   "__DOCUMENT_NAME__": "Flight",
-  "domain": "modules/${MODULE_ID}/domains/flight.webp"
+  "domain": "modules/the_void-br/domains/flight.webp"
 },
 "5EP2Lgf7ojfrc0Is": {
   "__DOCUMENT_NAME__": "Cinder Grasp",
-  "domain": "modules/${MODULE_ID}/domains/cinder-grasp.webp"
+  "domain": "modules/the_void-br/domains/cinder-grasp.webp"
 },
 "5PvMQKCjrgSxzstn": {
   "__DOCUMENT_NAME__": "Arcana-Touched",
-  "domain": "modules/${MODULE_ID}/domains/arcana-touched.webp"
+  "domain": "modules/the_void-br/domains/arcana-touched.webp"
 },
 "5b1awkgTmMp3FVrm": {
   "__DOCUMENT_NAME__": "Strategic Approach",
-  "domain": "modules/${MODULE_ID}/domains/strategic-approach.webp"
+  "domain": "modules/the_void-br/domains/strategic-approach.webp"
 },
 "5bBU9jWHOuOY12lR": {
   "__DOCUMENT_NAME__": "Scramble",
-  "domain": "modules/${MODULE_ID}/domains/scramble.webp"
+  "domain": "modules/the_void-br/domains/scramble.webp"
 },
 "62Sj67PdPFzwWVe3": {
   "__DOCUMENT_NAME__": "Eclipse",
-  "domain": "modules/${MODULE_ID}/domains/eclipse.webp"
+  "domain": "modules/the_void-br/domains/eclipse.webp"
 },
 "6dhqo1kzGxejCjHa": {
   "__DOCUMENT_NAME__": "Counterspell",
-  "domain": "modules/${MODULE_ID}/domains/counterspell.webp"
+  "domain": "modules/the_void-br/domains/counterspell.webp"
 },
 "7Pu83ABdMukTxu3e": {
   "__DOCUMENT_NAME__": "Codex-Touched",
-  "domain": "modules/${MODULE_ID}/domains/codex-touched.webp"
+  "domain": "modules/the_void-br/domains/codex-touched.webp"
 },
 "7b0mzV5QMPjVPT4o": {
   "__DOCUMENT_NAME__": "Through Your Eyes",
-  "domain": "modules/${MODULE_ID}/domains/through-your-eyes.webp"
+  "domain": "modules/the_void-br/domains/through-your-eyes.webp"
 },
 "8UANBgSdhMZ0sqfO": {
   "__DOCUMENT_NAME__": "Breaking Blow",
-  "domain": "modules/${MODULE_ID}/domains/breaking-blow.webp"
+  "domain": "modules/the_void-br/domains/breaking-blow.webp"
 },
 "8nRle10pw1HO8QVu": {
   "__DOCUMENT_NAME__": "Share the Burden",
-  "domain": "modules/${MODULE_ID}/domains/share-the-burden.webp"
+  "domain": "modules/the_void-br/domains/share-the-burden.webp"
 },
 "9DwSxHoUwl8Kxj3n": {
   "__DOCUMENT_NAME__": "Wrangle",
-  "domain": "modules/${MODULE_ID}/domains/wrangle.webp"
+  "domain": "modules/the_void-br/domains/wrangle.webp"
 },
 "9QElncQUDSakuSdR": {
   "__DOCUMENT_NAME__": "Untouchable",
-  "domain": "modules/${MODULE_ID}/domains/untouchable.webp"
+  "domain": "modules/the_void-br/domains/untouchable.webp"
 },
 "9a6xP5pxhVvdugk9": {
   "__DOCUMENT_NAME__": "Plant Dominion",
-  "domain": "modules/${MODULE_ID}/domains/plant-dominion.webp"
+  "domain": "modules/the_void-br/domains/plant-dominion.webp"
 },
 "9dFvcM1i3bxG3BSA": {
   "__DOCUMENT_NAME__": "Wild Fortress",
-  "domain": "modules/${MODULE_ID}/domains/wild-fortress.webp"
+  "domain": "modules/the_void-br/domains/wild-fortress.webp"
 },
 "A0XzD6MmBXYdk7Ps": {
   "__DOCUMENT_NAME__": "Shadowhunter",
-  "domain": "modules/${MODULE_ID}/domains/shadowhunter.webp"
+  "domain": "modules/the_void-br/domains/shadowhunter.webp"
 },
 "ABp9pUfBS69NomTD": {
   "__DOCUMENT_NAME__": "Critical Inspiration",
-  "domain": "modules/${MODULE_ID}/domains/critical-inspiration.webp"
+  "domain": "modules/the_void-br/domains/critical-inspiration.webp"
 },
 "AIbHfryMA2Rvs1ut": {
   "__DOCUMENT_NAME__": "Banish",
-  "domain": "modules/${MODULE_ID}/domains/banish.webp"
+  "domain": "modules/the_void-br/domains/banish.webp"
 },
 "B4choj481tqajWb9": {
   "__DOCUMENT_NAME__": "Thought Delver",
-  "domain": "modules/${MODULE_ID}/domains/thought-delver.webp"
+  "domain": "modules/the_void-br/domains/thought-delver.webp"
 },
 "B5HXqYRJiL3xMNKT": {
   "__DOCUMENT_NAME__": "Glyph of Nightfall",
-  "domain": "modules/${MODULE_ID}/domains/glyph-of-nightfall.webp"
+  "domain": "modules/the_void-br/domains/glyph-of-nightfall.webp"
 },
 "BFWN2cObMdlk9uVz": {
   "__DOCUMENT_NAME__": "Get Back Up",
-  "domain": "modules/${MODULE_ID}/domains/get-back-up.webp"
+  "domain": "modules/the_void-br/domains/get-back-up.webp"
 },
 "BNevJyGk7hmN7XOY": {
   "__DOCUMENT_NAME__": "Bolt Beacon",
-  "domain": "modules/${MODULE_ID}/domains/bolt-beacon.webp"
+  "domain": "modules/the_void-br/domains/bolt-beacon.webp"
 },
 "BdePs1ZWpZTZvY1Z": {
   "__DOCUMENT_NAME__": "Lean on Me",
-  "domain": "modules/${MODULE_ID}/domains/lean-on-me.webp"
+  "domain": "modules/the_void-br/domains/lean-on-me.webp"
 },
 "C0qLOwSSvZ6PG3Ws": {
   "__DOCUMENT_NAME__": "Earthquake",
-  "domain": "modules/${MODULE_ID}/domains/earthquake.webp"
+  "domain": "modules/the_void-br/domains/earthquake.webp"
 },
 "CUIQmrPjf9VCHmwJ": {
   "__DOCUMENT_NAME__": "Unbreakable",
-  "domain": "modules/${MODULE_ID}/domains/unbreakable.webp"
+  "domain": "modules/the_void-br/domains/unbreakable.webp"
 },
 "DjnKlZQYaWdQGKcK": {
   "__DOCUMENT_NAME__": "Wild Surge",
-  "domain": "modules/${MODULE_ID}/domains/wild-surge.webp"
+  "domain": "modules/the_void-br/domains/wild-surge.webp"
 },
 "Ef1JsUG50LIoKx2F": {
   "__DOCUMENT_NAME__": "Battle Cry",
-  "domain": "modules/${MODULE_ID}/domains/battle-cry.webp"
+  "domain": "modules/the_void-br/domains/battle-cry.webp"
 },
 "F2m9wvZ3v5c3yCtv": {
   "__DOCUMENT_NAME__": "Fane of the Wilds",
-  "domain": "modules/${MODULE_ID}/domains/fane-of-the-wilds.webp"
+  "domain": "modules/the_void-br/domains/fane-of-the-wilds.webp"
 },
 "FXLsB3QbQvTtqX5B": {
   "__DOCUMENT_NAME__": "Midnight Spirit",
-  "domain": "modules/${MODULE_ID}/domains/midnight-spirit.webp"
+  "domain": "modules/the_void-br/domains/midnight-spirit.webp"
 },
 "FgzBppvLjXr0UbUI": {
   "__DOCUMENT_NAME__": "Telekinesis",
-  "domain": "modules/${MODULE_ID}/domains/telekinesis.webp"
+  "domain": "modules/the_void-br/domains/telekinesis.webp"
 },
 "GBMIElIpk4cvk1Bd": {
   "__DOCUMENT_NAME__": "Vanishing Dodge",
-  "domain": "modules/${MODULE_ID}/domains/vanishing-dodge.webp"
+  "domain": "modules/the_void-br/domains/vanishing-dodge.webp"
 },
 "GEhBUmv9Bj7oJfHk": {
   "__DOCUMENT_NAME__": "Rune Ward",
-  "domain": "modules/${MODULE_ID}/domains/rune-ward.webp"
+  "domain": "modules/the_void-br/domains/rune-ward.webp"
 },
 "GRL0cvs96vrTDckZ": {
   "__DOCUMENT_NAME__": "Rage Up",
-  "domain": "modules/${MODULE_ID}/domains/rage-up.webp"
+  "domain": "modules/the_void-br/domains/rage-up.webp"
 },
 "Gb5bqpFSBiuBxUix": {
   "__DOCUMENT_NAME__": "Blade-Touched",
-  "domain": "modules/${MODULE_ID}/domains/blade-touched.webp"
+  "domain": "modules/the_void-br/domains/blade-touched.webp"
 },
 "GlRm1Dxlc0Z1b04o": {
   "__DOCUMENT_NAME__": "Healing Field",
-  "domain": "modules/${MODULE_ID}/domains/healing-field.webp"
+  "domain": "modules/the_void-br/domains/healing-field.webp"
 },
 "H6TqCJBaa1eWEQ1z": {
   "__DOCUMENT_NAME__": "Swift Step",
-  "domain": "modules/${MODULE_ID}/domains/swift-step.webp"
+  "domain": "modules/the_void-br/domains/swift-step.webp"
 },
 "HTv9QEPS466WsstP": {
   "__DOCUMENT_NAME__": "Tell No Lies",
-  "domain": "modules/${MODULE_ID}/domains/tell-no-lies.webp"
+  "domain": "modules/the_void-br/domains/tell-no-lies.webp"
 },
 "HdgZUfWd7Hyj7nBW": {
   "__DOCUMENT_NAME__": "Pick and Pull",
-  "domain": "modules/${MODULE_ID}/domains/pick-and-pull.webp"
+  "domain": "modules/the_void-br/domains/pick-and-pull.webp"
 },
 "HnPwVrWblYa9hwSt": {
   "__DOCUMENT_NAME__": "Teleport",
-  "domain": "modules/${MODULE_ID}/domains/teleport.webp"
+  "domain": "modules/the_void-br/domains/teleport.webp"
 },
 "HtWx5IIemCoorMj2": {
   "__DOCUMENT_NAME__": "Rejuvenation Barrier",
-  "domain": "modules/${MODULE_ID}/domains/rejuvenation-barrier.webp"
+  "domain": "modules/the_void-br/domains/rejuvenation-barrier.webp"
 },
 "HufF5KzuNfEb9RTi": {
   "__DOCUMENT_NAME__": "Goad Them On",
-  "domain": "modules/${MODULE_ID}/domains/goad-them-on.webp"
+  "domain": "modules/the_void-br/domains/goad-them-on.webp"
 },
 "I7pNsQ9Yx6mRJX4V": {
   "__DOCUMENT_NAME__": "Onslaught",
-  "domain": "modules/${MODULE_ID}/domains/onslaught.webp"
+  "domain": "modules/the_void-br/domains/onslaught.webp"
 },
 "IqxzvvjZiYbgx21A": {
   "__DOCUMENT_NAME__": "Notorious",
-  "domain": "modules/${MODULE_ID}/domains/notorious.webp"
+  "domain": "modules/the_void-br/domains/notorious.webp"
 },
 "J1ovx2FpNDvPq1o6": {
   "__DOCUMENT_NAME__": "Book of Yarrow",
-  "domain": "modules/${MODULE_ID}/domains/book-of-yarrow.webp"
+  "domain": "modules/the_void-br/domains/book-of-yarrow.webp"
 },
 "JT5dM3gVL6chDBYU": {
   "__DOCUMENT_NAME__": "Splendor-Touched",
-  "domain": "modules/${MODULE_ID}/domains/splendor-touched.webp"
+  "domain": "modules/the_void-br/domains/splendor-touched.webp"
 },
 "Jkp6cMDiHHaBZQRS": {
   "__DOCUMENT_NAME__": "Conjured Steeds",
-  "domain": "modules/${MODULE_ID}/domains/conjured-steeds.webp"
+  "domain": "modules/the_void-br/domains/conjured-steeds.webp"
 },
 "JrdZedm1BFKeV7Yb": {
   "__DOCUMENT_NAME__": "Troublemaker",
-  "domain": "modules/${MODULE_ID}/domains/troublemaker.webp"
+  "domain": "modules/the_void-br/domains/troublemaker.webp"
 },
 "JrkUMTzaFmQNBHVm": {
   "__DOCUMENT_NAME__": "Forest Sprites",
-  "domain": "modules/${MODULE_ID}/domains/forest-sprites.webp"
+  "domain": "modules/the_void-br/domains/forest-sprites.webp"
 },
 "JwfhtgmmuRxg4zhI": {
   "__DOCUMENT_NAME__": "Shrug It Off",
-  "domain": "modules/${MODULE_ID}/domains/shrug-it-off.webp"
+  "domain": "modules/the_void-br/domains/shrug-it-off.webp"
 },
 "JzSvxy9Mu3RJp1jV": {
   "__DOCUMENT_NAME__": "Arcane Reflection",
-  "domain": "modules/${MODULE_ID}/domains/arcane-reflection.webp"
+  "domain": "modules/the_void-br/domains/arcane-reflection.webp"
 },
 "K8oFepK24UVsAX8B": {
   "__DOCUMENT_NAME__": "Divination",
-  "domain": "modules/${MODULE_ID}/domains/divination.webp"
+  "domain": "modules/the_void-br/domains/divination.webp"
 },
 "KAuNb51AwhD8KEXk": {
   "__DOCUMENT_NAME__": "Grace-Touched",
-  "domain": "modules/${MODULE_ID}/domains/grace-touched.webp"
+  "domain": "modules/the_void-br/domains/grace-touched.webp"
 },
 "KHkzA4Zrw8EWN1CH": {
   "__DOCUMENT_NAME__": "Invisibility",
-  "domain": "modules/${MODULE_ID}/domains/invisibility.webp"
+  "domain": "modules/the_void-br/domains/invisibility.webp"
 },
 "KOf6LLpMRNwjezDx": {
   "__DOCUMENT_NAME__": "I Am Your Shield",
-  "domain": "modules/${MODULE_ID}/domains/i-am-your-shield.webp"
+  "domain": "modules/the_void-br/domains/i-am-your-shield.webp"
 },
 "Kp6RejHGimnuoBom": {
   "__DOCUMENT_NAME__": "I See It Coming",
-  "domain": "modules/${MODULE_ID}/domains/i-see-it-coming.webp"
+  "domain": "modules/the_void-br/domains/i-see-it-coming.webp"
 },
 "LWRkhNY968Cu2Zl5": {
   "__DOCUMENT_NAME__": "Signature Move",
-  "domain": "modules/${MODULE_ID}/domains/signature-move.webp"
+  "domain": "modules/the_void-br/domains/signature-move.webp"
 },
 "LzVpMkD5I4QeaIHf": {
   "__DOCUMENT_NAME__": "Force of Nature",
-  "domain": "modules/${MODULE_ID}/domains/force-of-nature.webp"
+  "domain": "modules/the_void-br/domains/force-of-nature.webp"
 },
 "MCgNRlh0s5XUPCfl": {
   "__DOCUMENT_NAME__": "Reaper’s Strike",
-  "domain": "modules/${MODULE_ID}/domains/reapers-strike.webp"
+  "domain": "modules/the_void-br/domains/reapers-strike.webp"
 },
 "MMl7abdGRLl7TJLO": {
   "__DOCUMENT_NAME__": "Frenzy",
-  "domain": "modules/${MODULE_ID}/domains/frenzy.webp"
+  "domain": "modules/the_void-br/domains/frenzy.webp"
 },
 "McdncxmO9K1YNP7Y": {
   "__DOCUMENT_NAME__": "Never Upstaged",
-  "domain": "modules/${MODULE_ID}/domains/never-upstaged.webp"
+  "domain": "modules/the_void-br/domains/never-upstaged.webp"
 },
 "NIUhmuQGwbb3UClZ": {
   "__DOCUMENT_NAME__": "Stealth Expertise",
-  "domain": "modules/${MODULE_ID}/domains/stealth-expertise.webp"
+  "domain": "modules/the_void-br/domains/stealth-expertise.webp"
 },
 "Nbw6Jnh1vRZzwHQI": {
   "__DOCUMENT_NAME__": "Final Words",
-  "domain": "modules/${MODULE_ID}/domains/final-words.webp"
+  "domain": "modules/the_void-br/domains/final-words.webp"
 },
 "NeEOghgfyDUBTwBG": {
   "__DOCUMENT_NAME__": "Battle-Hardened",
-  "domain": "modules/${MODULE_ID}/domains/battle-hardened.webp"
+  "domain": "modules/the_void-br/domains/battle-hardened.webp"
 },
 "O38MQMhJWdZnXi6b": {
   "__DOCUMENT_NAME__": "Know Thy Enemy",
-  "domain": "modules/${MODULE_ID}/domains/know-thy-enemy.webp"
+  "domain": "modules/the_void-br/domains/know-thy-enemy.webp"
 },
 "ON5bvnoQBy0SYc9Y": {
   "__DOCUMENT_NAME__": "Bone-Touched",
-  "domain": "modules/${MODULE_ID}/domains/bone-touched.webp"
+  "domain": "modules/the_void-br/domains/bone-touched.webp"
 },
 "OszbCj0jTqq2ADx9": {
   "__DOCUMENT_NAME__": "Life Ward",
-  "domain": "modules/${MODULE_ID}/domains/life-ward.webp"
+  "domain": "modules/the_void-br/domains/life-ward.webp"
 },
 "P0ezScyQ5t8ruByf": {
   "__DOCUMENT_NAME__": "Battle Monster",
-  "domain": "modules/${MODULE_ID}/domains/battle-monster.webp"
+  "domain": "modules/the_void-br/domains/battle-monster.webp"
 },
 "QED2PDYePOSTbLtC": {
   "__DOCUMENT_NAME__": "Soothing Speech",
-  "domain": "modules/${MODULE_ID}/domains/soothing-speech.webp"
+  "domain": "modules/the_void-br/domains/soothing-speech.webp"
 },
 "QXs4vssSqNGQu5b8": {
   "__DOCUMENT_NAME__": "Brace",
-  "domain": "modules/${MODULE_ID}/domains/brace.webp"
+  "domain": "modules/the_void-br/domains/brace.webp"
 },
 "Qu0iA4s3Xov10Erd": {
   "__DOCUMENT_NAME__": "Blink Out",
-  "domain": "modules/${MODULE_ID}/domains/blink-out.webp"
+  "domain": "modules/the_void-br/domains/blink-out.webp"
 },
 "R0LNheiZycZlZzV3": {
   "__DOCUMENT_NAME__": "Book of Grynn",
-  "domain": "modules/${MODULE_ID}/domains/book-of-grynn.webp"
+  "domain": "modules/the_void-br/domains/book-of-grynn.webp"
 },
 "R5GYUalYXLLFRlNl": {
   "__DOCUMENT_NAME__": "Chokehold",
-  "domain": "modules/${MODULE_ID}/domains/chokehold.webp"
+  "domain": "modules/the_void-br/domains/chokehold.webp"
 },
 "R8NDiJXJWmC48WSr": {
   "__DOCUMENT_NAME__": "Confusing Aura",
-  "domain": "modules/${MODULE_ID}/domains/confusing-aura.webp"
+  "domain": "modules/the_void-br/domains/confusing-aura.webp"
 },
 "RiuN0lMlfoTAhLJz": {
   "__DOCUMENT_NAME__": "Sigil of Retribution",
-  "domain": "modules/${MODULE_ID}/domains/sigil-of-retribution.webp"
+  "domain": "modules/the_void-br/domains/sigil-of-retribution.webp"
 },
 "SDjjV61TC1NceV1m": {
   "__DOCUMENT_NAME__": "Twilight Toll",
-  "domain": "modules/${MODULE_ID}/domains/twilight-toll.webp"
+  "domain": "modules/the_void-br/domains/twilight-toll.webp"
 },
 "SZMNR3uGNinJcN4N": {
   "__DOCUMENT_NAME__": "Book of Ronin",
-  "domain": "modules/${MODULE_ID}/domains/book-of-ronin.webp"
+  "domain": "modules/the_void-br/domains/book-of-ronin.webp"
 },
 "SgvjJfMyubZowPxS": {
   "__DOCUMENT_NAME__": "Full Surge",
-  "domain": "modules/${MODULE_ID}/domains/full-surge.webp"
+  "domain": "modules/the_void-br/domains/full-surge.webp"
 },
 "TGjR4vJVNbQRV8zr": {
   "__DOCUMENT_NAME__": "Mending Touch",
-  "domain": "modules/${MODULE_ID}/domains/mending-touch.webp"
+  "domain": "modules/the_void-br/domains/mending-touch.webp"
 },
 "TV56wSysbU5xAlOa": {
   "__DOCUMENT_NAME__": "Uncanny Disguise",
-  "domain": "modules/${MODULE_ID}/domains/uncanny-disguise.webp"
+  "domain": "modules/the_void-br/domains/uncanny-disguise.webp"
 },
 "TYKfM3H9vBXyWiH4": {
   "__DOCUMENT_NAME__": "Splintering Strike",
-  "domain": "modules/${MODULE_ID}/domains/splintering-strike.webp"
+  "domain": "modules/the_void-br/domains/splintering-strike.webp"
 },
 "Tag303LoRNC5zGgl": {
   "__DOCUMENT_NAME__": "Natural Familiar",
-  "domain": "modules/${MODULE_ID}/domains/natural-familiar.webp"
+  "domain": "modules/the_void-br/domains/natural-familiar.webp"
 },
 "TtGOtWkbr23VhHfH": {
   "__DOCUMENT_NAME__": "Manifest Wall",
-  "domain": "modules/${MODULE_ID}/domains/manifest-wall.webp"
+  "domain": "modules/the_void-br/domains/manifest-wall.webp"
 },
 "U1uWJE94HZVudujz": {
   "__DOCUMENT_NAME__": "Smite",
-  "domain": "modules/${MODULE_ID}/domains/smite.webp"
+  "domain": "modules/the_void-br/domains/smite.webp"
 },
 "Ucenef6JpjQxwXni": {
   "__DOCUMENT_NAME__": "Rain of Blades",
-  "domain": "modules/${MODULE_ID}/domains/rain-of-blades.webp"
+  "domain": "modules/the_void-br/domains/rain-of-blades.webp"
 },
 "VKAHS6eWz28ukcDs": {
   "__DOCUMENT_NAME__": "Boost",
-  "domain": "modules/${MODULE_ID}/domains/boost.webp"
+  "domain": "modules/the_void-br/domains/boost.webp"
 },
 "VOIgm2j2Ijszwc5m": {
   "__DOCUMENT_NAME__": "Book of Vyola",
-  "domain": "modules/${MODULE_ID}/domains/book-of-vyola.webp"
+  "domain": "modules/the_void-br/domains/book-of-vyola.webp"
 },
 "VOSFaQHZbmhMyXwi": {
   "__DOCUMENT_NAME__": "Sage-Touched",
-  "domain": "modules/${MODULE_ID}/domains/sage-touched.webp"
+  "domain": "modules/the_void-br/domains/sage-touched.webp"
 },
 "VZ2b4zfRzV73XTuT": {
   "__DOCUMENT_NAME__": "Gifted Tracker",
-  "domain": "modules/${MODULE_ID}/domains/gifted-tracker.webp"
+  "domain": "modules/the_void-br/domains/gifted-tracker.webp"
 },
 "WChWEH36lUpXAC0K": {
   "__DOCUMENT_NAME__": "Tactician",
-  "domain": "modules/${MODULE_ID}/domains/tactician.webp"
+  "domain": "modules/the_void-br/domains/tactician.webp"
 },
 "WTlhnQMajc1r8i50": {
   "__DOCUMENT_NAME__": "Healing Hands",
-  "domain": "modules/${MODULE_ID}/domains/healing-hands.webp"
+  "domain": "modules/the_void-br/domains/healing-hands.webp"
 },
 "WnGldYhJPDhx8v9X": {
   "__DOCUMENT_NAME__": "Ground Pound",
-  "domain": "modules/${MODULE_ID}/domains/ground-pound.webp"
+  "domain": "modules/the_void-br/domains/ground-pound.webp"
 },
 "WtwSWXTRZa7QVvmo": {
   "__DOCUMENT_NAME__": "Book of Norai",
-  "domain": "modules/${MODULE_ID}/domains/book-of-norai.webp"
+  "domain": "modules/the_void-br/domains/book-of-norai.webp"
 },
 "X7YaZgFieBlqaPdZ": {
   "__DOCUMENT_NAME__": "Tempest",
-  "domain": "modules/${MODULE_ID}/domains/tempest.webp"
+  "domain": "modules/the_void-br/domains/tempest.webp"
 },
 "X8OfkEoI5gLTRf1B": {
   "__DOCUMENT_NAME__": "Invigoration",
-  "domain": "modules/${MODULE_ID}/domains/invigoration.webp"
+  "domain": "modules/the_void-br/domains/invigoration.webp"
 },
 "XTT8c8uJ4D7fvtbL": {
   "__DOCUMENT_NAME__": "Inevitable",
-  "domain": "modules/${MODULE_ID}/domains/inevitable.webp"
+  "domain": "modules/the_void-br/domains/inevitable.webp"
 },
 "XtSc0jIJLOoMTMYS": {
   "__DOCUMENT_NAME__": "Healing Strike",
-  "domain": "modules/${MODULE_ID}/domains/healing-strike.webp"
+  "domain": "modules/the_void-br/domains/healing-strike.webp"
 },
 "Y08dLFuPXsgeRrHi": {
   "__DOCUMENT_NAME__": "A Soldier’s Bond",
-  "domain": "modules/${MODULE_ID}/domains/a-soldiers-bond.webp"
+  "domain": "modules/the_void-br/domains/a-soldiers-bond.webp"
 },
 "YNOCNmZ96sCp9NEr": {
   "__DOCUMENT_NAME__": "Astral Projection",
-  "domain": "modules/${MODULE_ID}/domains/astral-projection.webp"
+  "domain": "modules/the_void-br/domains/astral-projection.webp"
 },
 "YWCRplmtwpCjpq5i": {
   "__DOCUMENT_NAME__": "Lead by Example",
-  "domain": "modules/${MODULE_ID}/domains/lead-by-example.webp"
+  "domain": "modules/the_void-br/domains/lead-by-example.webp"
 },
 "YtZzYBtR0yLPPA93": {
   "__DOCUMENT_NAME__": "Book of Ava",
-  "domain": "modules/${MODULE_ID}/domains/book-of-ava.webp"
+  "domain": "modules/the_void-br/domains/book-of-ava.webp"
 },
 "Zhw7PtK8nMPlsOqD": {
   "__DOCUMENT_NAME__": "Cloaking Blast",
-  "domain": "modules/${MODULE_ID}/domains/cloaking-blast.webp"
+  "domain": "modules/the_void-br/domains/cloaking-blast.webp"
 },
 "ZjAdi1FSNCDDHI3X": {
   "__DOCUMENT_NAME__": "Words of Discord",
-  "domain": "modules/${MODULE_ID}/domains/words-of-discord.webp"
+  "domain": "modules/the_void-br/domains/words-of-discord.webp"
 },
 "Zp2S2EnLS5Iv3XuT": {
   "__DOCUMENT_NAME__": "Adjust Reality",
-  "domain": "modules/${MODULE_ID}/domains/adjust-reality.webp"
+  "domain": "modules/the_void-br/domains/adjust-reality.webp"
 },
 "a8lFiKX1o8T924ze": {
   "__DOCUMENT_NAME__": "Enrapture",
-  "domain": "modules/${MODULE_ID}/domains/enrapture.webp"
+  "domain": "modules/the_void-br/domains/enrapture.webp"
 },
 "aC43NiFQLpOADyjO": {
   "__DOCUMENT_NAME__": "Premonition",
-  "domain": "modules/${MODULE_ID}/domains/premonition.webp"
+  "domain": "modules/the_void-br/domains/premonition.webp"
 },
 "aQz8jKkCd8M9aKMA": {
   "__DOCUMENT_NAME__": "Body Basher",
-  "domain": "modules/${MODULE_ID}/domains/body-basher.webp"
+  "domain": "modules/the_void-br/domains/body-basher.webp"
 },
 "aknDDYtN7EObv94t": {
   "__DOCUMENT_NAME__": "Book of Vagras",
-  "domain": "modules/${MODULE_ID}/domains/book-of-vagras.webp"
+  "domain": "modules/the_void-br/domains/book-of-vagras.webp"
 },
 "anO0arioUy7I5zBg": {
   "__DOCUMENT_NAME__": "Whirlwind",
-  "domain": "modules/${MODULE_ID}/domains/whirlwind.webp"
+  "domain": "modules/the_void-br/domains/whirlwind.webp"
 },
 "atWLorlCOxcrq8WB": {
   "__DOCUMENT_NAME__": "Nature’s Tongue",
-  "domain": "modules/${MODULE_ID}/domains/natures-tongue.webp"
+  "domain": "modules/the_void-br/domains/natures-tongue.webp"
 },
 "bap1eCWryPNowbyo": {
   "__DOCUMENT_NAME__": "Cruel Precision",
-  "domain": "modules/${MODULE_ID}/domains/cruel-precision.webp"
+  "domain": "modules/the_void-br/domains/cruel-precision.webp"
 },
 "cWRFHJdxEZ0M1dAg": {
   "__DOCUMENT_NAME__": "Book of Korvax",
-  "domain": "modules/${MODULE_ID}/domains/book-of-korvax.webp"
+  "domain": "modules/the_void-br/domains/book-of-korvax.webp"
 },
 "cWu1o82ZF7GvnbXc": {
   "__DOCUMENT_NAME__": "Inspirational Words",
-  "domain": "modules/${MODULE_ID}/domains/inspirational-words.webp"
+  "domain": "modules/the_void-br/domains/inspirational-words.webp"
 },
 "cy8GjBPGc9w9RaGO": {
   "__DOCUMENT_NAME__": "Armorer",
-  "domain": "modules/${MODULE_ID}/domains/armorer.webp"
+  "domain": "modules/the_void-br/domains/armorer.webp"
 },
 "dT95m0Jam8sWbeuC": {
   "__DOCUMENT_NAME__": "Mass Disguise",
-  "domain": "modules/${MODULE_ID}/domains/mass-disguise.webp"
+  "domain": "modules/the_void-br/domains/mass-disguise.webp"
 },
 "db4xV3YErHRslbVE": {
   "__DOCUMENT_NAME__": "Shape Material",
-  "domain": "modules/${MODULE_ID}/domains/shape-material.webp"
+  "domain": "modules/the_void-br/domains/shape-material.webp"
 },
 "dc4rAXlv95srZUct": {
   "__DOCUMENT_NAME__": "Deft Maneuvers",
-  "domain": "modules/${MODULE_ID}/domains/deft-maneuvers.webp"
+  "domain": "modules/the_void-br/domains/deft-maneuvers.webp"
 },
 "df4iRqQzRntrF6Qw": {
   "__DOCUMENT_NAME__": "Book of Illiat",
-  "domain": "modules/${MODULE_ID}/domains/book-of-illiat.webp"
+  "domain": "modules/the_void-br/domains/book-of-illiat.webp"
 },
 "eq8VNqYMRHhF9xw9": {
   "__DOCUMENT_NAME__": "Book of Sitil",
-  "domain": "modules/${MODULE_ID}/domains/book-of-sitil.webp"
+  "domain": "modules/the_void-br/domains/book-of-sitil.webp"
 },
 "ewhIzXQ2h9fS9I8c": {
   "__DOCUMENT_NAME__": "Spellcharge",
-  "domain": "modules/${MODULE_ID}/domains/spellcharge.webp"
+  "domain": "modules/the_void-br/domains/spellcharge.webp"
 },
 "faU0XkJCbar69PiN": {
   "__DOCUMENT_NAME__": "Redirect",
-  "domain": "modules/${MODULE_ID}/domains/redirect.webp"
+  "domain": "modules/the_void-br/domains/redirect.webp"
 },
 "ffPbSEvLuFrFsMxl": {
   "__DOCUMENT_NAME__": "Second Wind",
-  "domain": "modules/${MODULE_ID}/domains/second-wind.webp"
+  "domain": "modules/the_void-br/domains/second-wind.webp"
 },
 "gFMx08ogQ8hS2Obi": {
   "__DOCUMENT_NAME__": "Book of Homet",
-  "domain": "modules/${MODULE_ID}/domains/book-of-homet.webp"
+  "domain": "modules/the_void-br/domains/book-of-homet.webp"
 },
 "gV4L5ZZmfPrEbIDh": {
   "__DOCUMENT_NAME__": "Veil of Night",
-  "domain": "modules/${MODULE_ID}/domains/veil-of-night.webp"
+  "domain": "modules/the_void-br/domains/veil-of-night.webp"
 },
 "gZOMzskSOfeiXn54": {
   "__DOCUMENT_NAME__": "Sensory Projection",
-  "domain": "modules/${MODULE_ID}/domains/sensory-projection.webp"
+  "domain": "modules/the_void-br/domains/sensory-projection.webp"
 },
 "gsiQFT6q3WOgqerJ": {
   "__DOCUMENT_NAME__": "Recovery",
-  "domain": "modules/${MODULE_ID}/domains/recovery.webp"
+  "domain": "modules/the_void-br/domains/recovery.webp"
 },
 "gwmYasmfgXZ7tFS6": {
   "__DOCUMENT_NAME__": "Hush",
-  "domain": "modules/${MODULE_ID}/domains/hush.webp"
+  "domain": "modules/the_void-br/domains/hush.webp"
 },
 "hZJp9mdkMnqKDROe": {
   "__DOCUMENT_NAME__": "Falling Sky",
-  "domain": "modules/${MODULE_ID}/domains/falling-sky.webp"
+  "domain": "modules/the_void-br/domains/falling-sky.webp"
 },
 "iEBLySZD9z8CLdz7": {
   "__DOCUMENT_NAME__": "Overwhelming Aura",
-  "domain": "modules/${MODULE_ID}/domains/overwhelming-aura.webp"
+  "domain": "modules/the_void-br/domains/overwhelming-aura.webp"
 },
 "iQhgqmLwhcSTYnvr": {
   "__DOCUMENT_NAME__": "Specter of the Dark",
-  "domain": "modules/${MODULE_ID}/domains/specter-of-the-dark.webp"
+  "domain": "modules/the_void-br/domains/specter-of-the-dark.webp"
 },
 "iYNVTB7uAD1FTCZu": {
   "__DOCUMENT_NAME__": "Reassurance",
-  "domain": "modules/${MODULE_ID}/domains/reassurance.webp"
+  "domain": "modules/the_void-br/domains/reassurance.webp"
 },
 "jSQsSP61CX4MhSN7": {
   "__DOCUMENT_NAME__": "Ferocity",
-  "domain": "modules/${MODULE_ID}/domains/ferocity.webp"
+  "domain": "modules/the_void-br/domains/ferocity.webp"
 },
 "k1AtYd3lSchIymBr": {
   "__DOCUMENT_NAME__": "Valor-Touched",
-  "domain": "modules/${MODULE_ID}/domains/valor-touched.webp"
+  "domain": "modules/the_void-br/domains/valor-touched.webp"
 },
 "kVkoCLBXLAIifqpz": {
   "__DOCUMENT_NAME__": "Transcendent Union",
-  "domain": "modules/${MODULE_ID}/domains/transcendent-union.webp"
+  "domain": "modules/the_void-br/domains/transcendent-union.webp"
 },
 "kdFoLo3KXwn4LqTG": {
   "__DOCUMENT_NAME__": "Hold the Line",
-  "domain": "modules/${MODULE_ID}/domains/hold-the-line.webp"
+  "domain": "modules/the_void-br/domains/hold-the-line.webp"
 },
 "kguhWlidhxe2GbT0": {
   "__DOCUMENT_NAME__": "Shadowbind",
-  "domain": "modules/${MODULE_ID}/domains/shadowbind.webp"
+  "domain": "modules/the_void-br/domains/shadowbind.webp"
 },
 "kja5qvh4rdeDBB96": {
   "__DOCUMENT_NAME__": "Disintegration Wave",
-  "domain": "modules/${MODULE_ID}/domains/disintegration-wave.webp"
+  "domain": "modules/the_void-br/domains/disintegration-wave.webp"
 },
 "klahWDFwihqqEhXP": {
   "__DOCUMENT_NAME__": "Encore",
-  "domain": "modules/${MODULE_ID}/domains/encore.webp"
+  "domain": "modules/the_void-br/domains/encore.webp"
 },
 "l5D9kq901JDESaXw": {
   "__DOCUMENT_NAME__": "Bare Bones",
-  "domain": "modules/${MODULE_ID}/domains/bare-bones.webp"
+  "domain": "modules/the_void-br/domains/bare-bones.webp"
 },
 "lOZaRb4fCVgQsWB5": {
   "__DOCUMENT_NAME__": "Zone of Protection",
-  "domain": "modules/${MODULE_ID}/domains/zone-of-protection.webp"
+  "domain": "modules/the_void-br/domains/zone-of-protection.webp"
 },
 "lRHo6ZkK1zybeEoG": {
   "__DOCUMENT_NAME__": "Stunning Sunlight",
-  "domain": "modules/${MODULE_ID}/domains/stunning-sunlight.webp"
+  "domain": "modules/the_void-br/domains/stunning-sunlight.webp"
 },
 "lmBLMPuR8qLbuzNf": {
   "__DOCUMENT_NAME__": "Safe Haven",
-  "domain": "modules/${MODULE_ID}/domains/safe-haven.webp"
+  "domain": "modules/the_void-br/domains/safe-haven.webp"
 },
 "n0P3VS1WfxvmXbB6": {
   "__DOCUMENT_NAME__": "Towering Stalk",
-  "domain": "modules/${MODULE_ID}/domains/towering-stalk.webp"
+  "domain": "modules/the_void-br/domains/towering-stalk.webp"
 },
 "nCNCqSH7UgW4O3To": {
   "__DOCUMENT_NAME__": "Glancing Blow",
-  "domain": "modules/${MODULE_ID}/domains/glancing-blow.webp"
+  "domain": "modules/the_void-br/domains/glancing-blow.webp"
 },
 "o62i0QdbUDIiAhSq": {
   "__DOCUMENT_NAME__": "Unleash Chaos",
-  "domain": "modules/${MODULE_ID}/domains/unleash-chaos.webp"
+  "domain": "modules/the_void-br/domains/unleash-chaos.webp"
 },
 "oDIZoC4l19Nli0Fj": {
   "__DOCUMENT_NAME__": "Rise Up",
-  "domain": "modules/${MODULE_ID}/domains/rise-up.webp"
+  "domain": "modules/the_void-br/domains/rise-up.webp"
 },
 "oUipGK84E2KjoKqh": {
   "__DOCUMENT_NAME__": "Thorn Skin",
-  "domain": "modules/${MODULE_ID}/domains/thorn-skin.webp"
+  "domain": "modules/the_void-br/domains/thorn-skin.webp"
 },
 "oVa49lI107eZILZr": {
   "__DOCUMENT_NAME__": "Fortified Armor",
-  "domain": "modules/${MODULE_ID}/domains/fortified-armor.webp"
+  "domain": "modules/the_void-br/domains/fortified-armor.webp"
 },
 "oVs2MSC6Uf5GbgEG": {
   "__DOCUMENT_NAME__": "Book of Exota",
-  "domain": "modules/${MODULE_ID}/domains/book-of-exota.webp"
+  "domain": "modules/the_void-br/domains/book-of-exota.webp"
 },
 "pcbYD33rBBdAo5f9": {
   "__DOCUMENT_NAME__": "Rousing Strike",
-  "domain": "modules/${MODULE_ID}/domains/rousing-strike.webp"
+  "domain": "modules/the_void-br/domains/rousing-strike.webp"
 },
 "qJaSNTuDfbPVr8Lb": {
   "__DOCUMENT_NAME__": "Corrosive Projectile",
-  "domain": "modules/${MODULE_ID}/domains/corrosive-projectile.webp"
+  "domain": "modules/the_void-br/domains/corrosive-projectile.webp"
 },
 "qvpvTnkAoRn9vYO4": {
   "__DOCUMENT_NAME__": "Vicious Entangle",
-  "domain": "modules/${MODULE_ID}/domains/vicious-entangle.webp"
+  "domain": "modules/the_void-br/domains/vicious-entangle.webp"
 },
 "rZPH0BY8Sznc9sFG": {
   "__DOCUMENT_NAME__": "Conjure Swarm",
-  "domain": "modules/${MODULE_ID}/domains/conjure-swarm.webp"
+  "domain": "modules/the_void-br/domains/conjure-swarm.webp"
 },
 "rfIv6lln40Fh6EIl": {
   "__DOCUMENT_NAME__": "Shield Aura",
-  "domain": "modules/${MODULE_ID}/domains/shield-aura.webp"
+  "domain": "modules/the_void-br/domains/shield-aura.webp"
 },
 "rnejRbUQsNGX1GMC": {
   "__DOCUMENT_NAME__": "Champion’s Edge",
-  "domain": "modules/${MODULE_ID}/domains/champions-edge.webp"
+  "domain": "modules/the_void-br/domains/champions-edge.webp"
 },
 "s3zRsOMeUkuDwgd8": {
   "__DOCUMENT_NAME__": "Unyielding Armor",
-  "domain": "modules/${MODULE_ID}/domains/unyielding-armor.webp"
+  "domain": "modules/the_void-br/domains/unyielding-armor.webp"
 },
 "sWUlSPOJEaXyQLCj": {
   "__DOCUMENT_NAME__": "Vitality",
-  "domain": "modules/${MODULE_ID}/domains/vitality.webp"
+  "domain": "modules/the_void-br/domains/vitality.webp"
 },
 "stId5syX7YpP2JGz": {
   "__DOCUMENT_NAME__": "Support Tank",
-  "domain": "modules/${MODULE_ID}/domains/support-tank.webp"
+  "domain": "modules/the_void-br/domains/support-tank.webp"
 },
 "t3RRGH6mMYYJJCcF": {
   "__DOCUMENT_NAME__": "Voice of Reason",
-  "domain": "modules/${MODULE_ID}/domains/voice-of-reason.webp"
+  "domain": "modules/the_void-br/domains/voice-of-reason.webp"
 },
 "tNzFNlVHghloKsFi": {
   "__DOCUMENT_NAME__": "Endless Charisma",
-  "domain": "modules/${MODULE_ID}/domains/endless-charisma.webp"
+  "domain": "modules/the_void-br/domains/endless-charisma.webp"
 },
 "tceJDcCUefrMS2Ov": {
   "__DOCUMENT_NAME__": "Rapid Riposte",
-  "domain": "modules/${MODULE_ID}/domains/rapid-riposte.webp"
+  "domain": "modules/the_void-br/domains/rapid-riposte.webp"
 },
 "tdsL00yTSLNgZWs6": {
   "__DOCUMENT_NAME__": "Bold Presence",
-  "domain": "modules/${MODULE_ID}/domains/bold-presence.webp"
+  "domain": "modules/the_void-br/domains/bold-presence.webp"
 },
 "uSyGKVxOJcnp28po": {
   "__DOCUMENT_NAME__": "Midnight-Touched",
-  "domain": "modules/${MODULE_ID}/domains/midnight-touched.webp"
+  "domain": "modules/the_void-br/domains/midnight-touched.webp"
 },
 "ubpixIgZrJXKyM3b": {
   "__DOCUMENT_NAME__": "Mass Enrapture",
-  "domain": "modules/${MODULE_ID}/domains/mass-enrapture.webp"
+  "domain": "modules/the_void-br/domains/mass-enrapture.webp"
 },
 "vd5STqX29RpYbGxa": {
   "__DOCUMENT_NAME__": "Rift Walker",
-  "domain": "modules/${MODULE_ID}/domains/rift-walker.webp"
+  "domain": "modules/the_void-br/domains/rift-walker.webp"
 },
 "wOQLu7nLMQ7v6Ogw": {
   "__DOCUMENT_NAME__": "Floating Eye",
-  "domain": "modules/${MODULE_ID}/domains/floating-eye.webp"
+  "domain": "modules/the_void-br/domains/floating-eye.webp"
 },
 "wQ53ImDswEHv5SGQ": {
   "__DOCUMENT_NAME__": "Versatile Fighter",
-  "domain": "modules/${MODULE_ID}/domains/versatile-fighter.webp"
+  "domain": "modules/the_void-br/domains/versatile-fighter.webp"
 },
 "wUQFsRtww18naYaq": {
   "__DOCUMENT_NAME__": "Restoration",
-  "domain": "modules/${MODULE_ID}/domains/restoration.webp"
+  "domain": "modules/the_void-br/domains/restoration.webp"
 },
 "x0FVGE1YbfXalJiw": {
   "__DOCUMENT_NAME__": "Death Grip",
-  "domain": "modules/${MODULE_ID}/domains/death-grip.webp"
+  "domain": "modules/the_void-br/domains/death-grip.webp"
 },
 "xFOSn8IVVNizgHFq": {
   "__DOCUMENT_NAME__": "Deathrun",
-  "domain": "modules/${MODULE_ID}/domains/deathrun.webp"
+  "domain": "modules/the_void-br/domains/deathrun.webp"
 },
 "xheQZOIYp0ERQhT9": {
   "__DOCUMENT_NAME__": "Not Good Enough",
-  "domain": "modules/${MODULE_ID}/domains/not-good-enough.webp"
+  "domain": "modules/the_void-br/domains/not-good-enough.webp"
 },
 "xxZOXC4tiZQ6kg1e": {
   "__DOCUMENT_NAME__": "Deadly Focus",
-  "domain": "modules/${MODULE_ID}/domains/deadly-focus.webp"
+  "domain": "modules/the_void-br/domains/deadly-focus.webp"
 },
 "yAGTwXHUC3qxpTeK": {
   "__DOCUMENT_NAME__": "Master of the Craft",
-  "domain": "modules/${MODULE_ID}/domains/master-of-the-craft.webp"
+  "domain": "modules/the_void-br/domains/master-of-the-craft.webp"
 },
 "yL2qrSWmTwXVOySH": {
   "__DOCUMENT_NAME__": "Dark Whispers",
-  "domain": "modules/${MODULE_ID}/domains/dark-whispers.webp"
+  "domain": "modules/the_void-br/domains/dark-whispers.webp"
 },
 "z30ciOwQI7g3tHla": {
   "__DOCUMENT_NAME__": "Resurrection",
-  "domain": "modules/${MODULE_ID}/domains/resurrection.webp"
+  "domain": "modules/the_void-br/domains/resurrection.webp"
 },
 "z8FFPhDh2SdFkFfS": {
   "__DOCUMENT_NAME__": "Forceful Push",
-  "domain": "modules/${MODULE_ID}/domains/forceful-push.webp"
+  "domain": "modules/the_void-br/domains/forceful-push.webp"
 },
 "zbxPl81kbWEegKQN": {
   "__DOCUMENT_NAME__": "On the Brink",
-  "domain": "modules/${MODULE_ID}/domains/on-the-brink.webp"
+  "domain": "modules/the_void-br/domains/on-the-brink.webp"
 },
 "zcldCuqOg3dphUVI": {
   "__DOCUMENT_NAME__": "Night Terror",
-  "domain": "modules/${MODULE_ID}/domains/night-terror.webp"
+  "domain": "modules/the_void-br/domains/night-terror.webp"
 }
+  },
+  "daggerheart-br.dominios-br": {
+    "06UapZuaA5S6fAKl": {
+      "__DOCUMENT_NAME__": "Coletor",
+      "domain": "modules/the_void-br/domains/forager.webp"
+    },
+    "0kAVO6rordCfZqYP": {
+      "__DOCUMENT_NAME__": "Corrente de Relâmpagos",
+      "domain": "modules/the_void-br/domains/chain-lightning.webp"
+    },
+    "0vdpIn06ifF3xxqZ": {
+      "__DOCUMENT_NAME__": "Recuo Espectral",
+      "domain": "modules/the_void-br/domains/phantom-retreat.webp"
+    },
+    "1ROT08E1UVBwHLAS": {
+      "__DOCUMENT_NAME__": "Caminhar na Parede",
+      "domain": "modules/the_void-br/domains/wall-walk.webp"
+    },
+    "1VXzwRbvbBj5bd5V": {
+      "__DOCUMENT_NAME__": "Livro de Tyfar",
+      "domain": "modules/the_void-br/domains/book-of-tyfar.webp"
+    },
+    "1p1cOmbnRd5CoKBp": {
+      "__DOCUMENT_NAME__": "Impacto Defensivo",
+      "domain": "modules/the_void-br/domains/preservation-blast.webp"
+    },
+    "2ZeuCGVatQdPOVC6": {
+      "__DOCUMENT_NAME__": "Lampejo Hipnótico",
+      "domain": "modules/the_void-br/domains/hypnotic-shimmer.webp"
+    },
+    "2ooUo2yoilGifY81": {
+      "__DOCUMENT_NAME__": "Ataque Imprudente",
+      "domain": "modules/the_void-br/domains/reckless.webp"
+    },
+    "38znCh6kHTkaPwYi": {
+      "__DOCUMENT_NAME__": "Dissimulação",
+      "domain": "modules/the_void-br/domains/deft-deceiver.webp"
+    },
+    "3A7LZ1xmDEMGa165": {
+      "__DOCUMENT_NAME__": "Imitador",
+      "domain": "modules/the_void-br/domains/copycat.webp"
+    },
+    "3zvjgZ5Od343wHzx": {
+      "__DOCUMENT_NAME__": "Sangue e Glória",
+      "domain": "modules/the_void-br/domains/gore-and-glory.webp"
+    },
+    "4uAFGp3LxiC07woC": {
+      "__DOCUMENT_NAME__": "Feixe de Remissão",
+      "domain": "modules/the_void-br/domains/salvation-beam.webp"
+    },
+    "54GUjNuBEy7xdzMz": {
+      "__DOCUMENT_NAME__": "Voo",
+      "domain": "modules/the_void-br/domains/flight.webp"
+    },
+    "5EP2Lgf7ojfrc0Is": {
+      "__DOCUMENT_NAME__": "Incendiar",
+      "domain": "modules/the_void-br/domains/cinder-grasp.webp"
+    },
+    "5PvMQKCjrgSxzstn": {
+      "__DOCUMENT_NAME__": "Dom Arcano",
+      "domain": "modules/the_void-br/domains/arcana-touched.webp"
+    },
+    "5b1awkgTmMp3FVrm": {
+      "__DOCUMENT_NAME__": "Aproximação Estratégica",
+      "domain": "modules/the_void-br/domains/strategic-approach.webp"
+    },
+    "5bBU9jWHOuOY12lR": {
+      "__DOCUMENT_NAME__": "Mexa-se",
+      "domain": "modules/the_void-br/domains/scramble.webp"
+    },
+    "62Sj67PdPFzwWVe3": {
+      "__DOCUMENT_NAME__": "Eclipse",
+      "domain": "modules/the_void-br/domains/eclipse.webp"
+    },
+    "6dhqo1kzGxejCjHa": {
+      "__DOCUMENT_NAME__": "Contramágica",
+      "domain": "modules/the_void-br/domains/counterspell.webp"
+    },
+    "7Pu83ABdMukTxu3e": {
+      "__DOCUMENT_NAME__": "Dom do Códice",
+      "domain": "modules/the_void-br/domains/codex-touched.webp"
+    },
+    "7b0mzV5QMPjVPT4o": {
+      "__DOCUMENT_NAME__": "Espionar",
+      "domain": "modules/the_void-br/domains/through-your-eyes.webp"
+    },
+    "8UANBgSdhMZ0sqfO": {
+      "__DOCUMENT_NAME__": "Golpe Debilitante",
+      "domain": "modules/the_void-br/domains/breaking-blow.webp"
+    },
+    "8nRle10pw1HO8QVu": {
+      "__DOCUMENT_NAME__": "Partilhar o Fardo",
+      "domain": "modules/the_void-br/domains/share-the-burden.webp"
+    },
+    "9DwSxHoUwl8Kxj3n": {
+      "__DOCUMENT_NAME__": "Amontoar",
+      "domain": "modules/the_void-br/domains/wrangle.webp"
+    },
+    "9QElncQUDSakuSdR": {
+      "__DOCUMENT_NAME__": "Intocável",
+      "domain": "modules/the_void-br/domains/untouchable.webp"
+    },
+    "9a6xP5pxhVvdugk9": {
+      "__DOCUMENT_NAME__": "Soberania Vegetal",
+      "domain": "modules/the_void-br/domains/plant-dominion.webp"
+    },
+    "9dFvcM1i3bxG3BSA": {
+      "__DOCUMENT_NAME__": "Fortaleza Selvagem",
+      "domain": "modules/the_void-br/domains/wild-fortress.webp"
+    },
+    "A0XzD6MmBXYdk7Ps": {
+      "__DOCUMENT_NAME__": "Caçador Sombrio",
+      "domain": "modules/the_void-br/domains/shadowhunter.webp"
+    },
+    "ABp9pUfBS69NomTD": {
+      "__DOCUMENT_NAME__": "Inspiração Crítica",
+      "domain": "modules/the_void-br/domains/critical-inspiration.webp"
+    },
+    "AIbHfryMA2Rvs1ut": {
+      "__DOCUMENT_NAME__": "Banir",
+      "domain": "modules/the_void-br/domains/banish.webp"
+    },
+    "B4choj481tqajWb9": {
+      "__DOCUMENT_NAME__": "Sondar Pensamentos",
+      "domain": "modules/the_void-br/domains/thought-delver.webp"
+    },
+    "B5HXqYRJiL3xMNKT": {
+      "__DOCUMENT_NAME__": "Glifo do Ocaso",
+      "domain": "modules/the_void-br/domains/glyph-of-nightfall.webp"
+    },
+    "BFWN2cObMdlk9uVz": {
+      "__DOCUMENT_NAME__": "Levanta",
+      "domain": "modules/the_void-br/domains/get-back-up.webp"
+    },
+    "BNevJyGk7hmN7XOY": {
+      "__DOCUMENT_NAME__": "Raio Luminoso",
+      "domain": "modules/the_void-br/domains/bolt-beacon.webp"
+    },
+    "BdePs1ZWpZTZvY1Z": {
+      "__DOCUMENT_NAME__": "Palavras de Conforto",
+      "domain": "modules/the_void-br/domains/lean-on-me.webp"
+    },
+    "C0qLOwSSvZ6PG3Ws": {
+      "__DOCUMENT_NAME__": "Terremoto",
+      "domain": "modules/the_void-br/domains/earthquake.webp"
+    },
+    "CUIQmrPjf9VCHmwJ": {
+      "__DOCUMENT_NAME__": "Inquebrável",
+      "domain": "modules/the_void-br/domains/unbreakable.webp"
+    },
+    "DjnKlZQYaWdQGKcK": {
+      "__DOCUMENT_NAME__": "Aspecto Selvagem",
+      "domain": "modules/the_void-br/domains/wild-surge.webp"
+    },
+    "Ef1JsUG50LIoKx2F": {
+      "__DOCUMENT_NAME__": "Grito de Guerra",
+      "domain": "modules/the_void-br/domains/battle-cry.webp"
+    },
+    "F2m9wvZ3v5c3yCtv": {
+      "__DOCUMENT_NAME__": "Santuário Selvagem",
+      "domain": "modules/the_void-br/domains/fane-of-the-wilds.webp"
+    },
+    "FXLsB3QbQvTtqX5B": {
+      "__DOCUMENT_NAME__": "Espírito da Meia-Noite",
+      "domain": "modules/the_void-br/domains/midnight-spirit.webp"
+    },
+    "FgzBppvLjXr0UbUI": {
+      "__DOCUMENT_NAME__": "Telecinese",
+      "domain": "modules/the_void-br/domains/telekinesis.webp"
+    },
+    "GBMIElIpk4cvk1Bd": {
+      "__DOCUMENT_NAME__": "Esvanecer",
+      "domain": "modules/the_void-br/domains/vanishing-dodge.webp"
+    },
+    "GEhBUmv9Bj7oJfHk": {
+      "__DOCUMENT_NAME__": "Proteção Rúnica",
+      "domain": "modules/the_void-br/domains/rune-ward.webp"
+    },
+    "GRL0cvs96vrTDckZ": {
+      "__DOCUMENT_NAME__": "Fúria",
+      "domain": "modules/the_void-br/domains/rage-up.webp"
+    },
+    "Gb5bqpFSBiuBxUix": {
+      "__DOCUMENT_NAME__": "Dom da Lâmina",
+      "domain": "modules/the_void-br/domains/blade-touched.webp"
+    },
+    "GlRm1Dxlc0Z1b04o": {
+      "__DOCUMENT_NAME__": "Campo Curativo",
+      "domain": "modules/the_void-br/domains/healing-field.webp"
+    },
+    "H6TqCJBaa1eWEQ1z": {
+      "__DOCUMENT_NAME__": "Passo Célere",
+      "domain": "modules/the_void-br/domains/swift-step.webp"
+    },
+    "HTv9QEPS466WsstP": {
+      "__DOCUMENT_NAME__": "Não Minta Para Mim",
+      "domain": "modules/the_void-br/domains/tell-no-lies.webp"
+    },
+    "HdgZUfWd7Hyj7nBW": {
+      "__DOCUMENT_NAME__": "Delinquente",
+      "domain": "modules/the_void-br/domains/pick-and-pull.webp"
+    },
+    "HnPwVrWblYa9hwSt": {
+      "__DOCUMENT_NAME__": "Teleporte",
+      "domain": "modules/the_void-br/domains/teleport.webp"
+    },
+    "HtWx5IIemCoorMj2": {
+      "__DOCUMENT_NAME__": "Barreira Revigorante",
+      "domain": "modules/the_void-br/domains/rejuvenation-barrier.webp"
+    },
+    "HufF5KzuNfEb9RTi": {
+      "__DOCUMENT_NAME__": "Incitar",
+      "domain": "modules/the_void-br/domains/goad-them-on.webp"
+    },
+    "I7pNsQ9Yx6mRJX4V": {
+      "__DOCUMENT_NAME__": "Massacrar",
+      "domain": "modules/the_void-br/domains/onslaught.webp"
+    },
+    "IqxzvvjZiYbgx21A": {
+      "__DOCUMENT_NAME__": "Notoriedade",
+      "domain": "modules/the_void-br/domains/notorious.webp"
+    },
+    "J1ovx2FpNDvPq1o6": {
+      "__DOCUMENT_NAME__": "Livro de Yarrow",
+      "domain": "modules/the_void-br/domains/book-of-yarrow.webp"
+    },
+    "JT5dM3gVL6chDBYU": {
+      "__DOCUMENT_NAME__": "Dom do Esplendor",
+      "domain": "modules/the_void-br/domains/splendor-touched.webp"
+    },
+    "Jkp6cMDiHHaBZQRS": {
+      "__DOCUMENT_NAME__": "Conjurar Montarias",
+      "domain": "modules/the_void-br/domains/conjured-steeds.webp"
+    },
+    "JrdZedm1BFKeV7Yb": {
+      "__DOCUMENT_NAME__": "Baderneiro",
+      "domain": "modules/the_void-br/domains/troublemaker.webp"
+    },
+    "JrkUMTzaFmQNBHVm": {
+      "__DOCUMENT_NAME__": "Espíritos da Floresta",
+      "domain": "modules/the_void-br/domains/forest-sprites.webp"
+    },
+    "JwfhtgmmuRxg4zhI": {
+      "__DOCUMENT_NAME__": "Dar de Ombros",
+      "domain": "modules/the_void-br/domains/shrug-it-off.webp"
+    },
+    "JzSvxy9Mu3RJp1jV": {
+      "__DOCUMENT_NAME__": "Reflexo Arcano",
+      "domain": "modules/the_void-br/domains/arcane-reflection.webp"
+    },
+    "K8oFepK24UVsAX8B": {
+      "__DOCUMENT_NAME__": "Adivinhação",
+      "domain": "modules/the_void-br/domains/divination.webp"
+    },
+    "KAuNb51AwhD8KEXk": {
+      "__DOCUMENT_NAME__": "Dom da Graça",
+      "domain": "modules/the_void-br/domains/grace-touched.webp"
+    },
+    "KHkzA4Zrw8EWN1CH": {
+      "__DOCUMENT_NAME__": "Invisibilidade",
+      "domain": "modules/the_void-br/domains/invisibility.webp"
+    },
+    "KOf6LLpMRNwjezDx": {
+      "__DOCUMENT_NAME__": "Sou Seu Escudo",
+      "domain": "modules/the_void-br/domains/i-am-your-shield.webp"
+    },
+    "Kp6RejHGimnuoBom": {
+      "__DOCUMENT_NAME__": "Um Passo à Frente",
+      "domain": "modules/the_void-br/domains/i-see-it-coming.webp"
+    },
+    "LWRkhNY968Cu2Zl5": {
+      "__DOCUMENT_NAME__": "Golpe Assinatura",
+      "domain": "modules/the_void-br/domains/signature-move.webp"
+    },
+    "LzVpMkD5I4QeaIHf": {
+      "__DOCUMENT_NAME__": "Força da Natureza",
+      "domain": "modules/the_void-br/domains/force-of-nature.webp"
+    },
+    "MCgNRlh0s5XUPCfl": {
+      "__DOCUMENT_NAME__": "Golpe do Ceifador",
+      "domain": "modules/the_void-br/domains/reapers-strike.webp"
+    },
+    "MMl7abdGRLl7TJLO": {
+      "__DOCUMENT_NAME__": "Frenesi",
+      "domain": "modules/the_void-br/domains/frenzy.webp"
+    },
+    "McdncxmO9K1YNP7Y": {
+      "__DOCUMENT_NAME__": "Jamais Esquecido",
+      "domain": "modules/the_void-br/domains/never-upstaged.webp"
+    },
+    "NIUhmuQGwbb3UClZ": {
+      "__DOCUMENT_NAME__": "Mestre da Furtividade",
+      "domain": "modules/the_void-br/domains/stealth-expertise.webp"
+    },
+    "Nbw6Jnh1vRZzwHQI": {
+      "__DOCUMENT_NAME__": "Últimas Palavras",
+      "domain": "modules/the_void-br/domains/final-words.webp"
+    },
+    "NeEOghgfyDUBTwBG": {
+      "__DOCUMENT_NAME__": "Calejado pela Batalha",
+      "domain": "modules/the_void-br/domains/battle-hardened.webp"
+    },
+    "O38MQMhJWdZnXi6b": {
+      "__DOCUMENT_NAME__": "Conhece teu Inimigo",
+      "domain": "modules/the_void-br/domains/know-thy-enemy.webp"
+    },
+    "ON5bvnoQBy0SYc9Y": {
+      "__DOCUMENT_NAME__": "Dom do Osso",
+      "domain": "modules/the_void-br/domains/bone-touched.webp"
+    },
+    "OszbCj0jTqq2ADx9": {
+      "__DOCUMENT_NAME__": "Sigilo da Vida",
+      "domain": "modules/the_void-br/domains/life-ward.webp"
+    },
+    "P0ezScyQ5t8ruByf": {
+      "__DOCUMENT_NAME__": "Monstro de Batalha",
+      "domain": "modules/the_void-br/domains/battle-monster.webp"
+    },
+    "QED2PDYePOSTbLtC": {
+      "__DOCUMENT_NAME__": "Palavras Tranquilizantes",
+      "domain": "modules/the_void-br/domains/soothing-speech.webp"
+    },
+    "QXs4vssSqNGQu5b8": {
+      "__DOCUMENT_NAME__": "Resistir",
+      "domain": "modules/the_void-br/domains/brace.webp"
+    },
+    "Qu0iA4s3Xov10Erd": {
+      "__DOCUMENT_NAME__": "Translocação",
+      "domain": "modules/the_void-br/domains/blink-out.webp"
+    },
+    "R0LNheiZycZlZzV3": {
+      "__DOCUMENT_NAME__": "Livro de Grynn",
+      "domain": "modules/the_void-br/domains/book-of-grynn.webp"
+    },
+    "R5GYUalYXLLFRlNl": {
+      "__DOCUMENT_NAME__": "Estrangulamento",
+      "domain": "modules/the_void-br/domains/chokehold.webp"
+    },
+    "R8NDiJXJWmC48WSr": {
+      "__DOCUMENT_NAME__": "Aura de Confusão",
+      "domain": "modules/the_void-br/domains/confusing-aura.webp"
+    },
+    "RiuN0lMlfoTAhLJz": {
+      "__DOCUMENT_NAME__": "Sigilo da Retaliação",
+      "domain": "modules/the_void-br/domains/sigil-of-retribution.webp"
+    },
+    "SDjjV61TC1NceV1m": {
+      "__DOCUMENT_NAME__": "Tributo Crepuscular",
+      "domain": "modules/the_void-br/domains/twilight-toll.webp"
+    },
+    "SZMNR3uGNinJcN4N": {
+      "__DOCUMENT_NAME__": "Livro de Ronin",
+      "domain": "modules/the_void-br/domains/book-of-ronin.webp"
+    },
+    "SgvjJfMyubZowPxS": {
+      "__DOCUMENT_NAME__": "Sobrecarga",
+      "domain": "modules/the_void-br/domains/full-surge.webp"
+    },
+    "TGjR4vJVNbQRV8zr": {
+      "__DOCUMENT_NAME__": "Toque Reparador",
+      "domain": "modules/the_void-br/domains/mending-touch.webp"
+    },
+    "TV56wSysbU5xAlOa": {
+      "__DOCUMENT_NAME__": "Disfarce Inquietante",
+      "domain": "modules/the_void-br/domains/uncanny-disguise.webp"
+    },
+    "TYKfM3H9vBXyWiH4": {
+      "__DOCUMENT_NAME__": "Ataque Fragmentado",
+      "domain": "modules/the_void-br/domains/splintering-strike.webp"
+    },
+    "Tag303LoRNC5zGgl": {
+      "__DOCUMENT_NAME__": "Familiar Natural",
+      "domain": "modules/the_void-br/domains/natural-familiar.webp"
+    },
+    "TtGOtWkbr23VhHfH": {
+      "__DOCUMENT_NAME__": "Muralha",
+      "domain": "modules/the_void-br/domains/manifest-wall.webp"
+    },
+    "U1uWJE94HZVudujz": {
+      "__DOCUMENT_NAME__": "Punição",
+      "domain": "modules/the_void-br/domains/smite.webp"
+    },
+    "Ucenef6JpjQxwXni": {
+      "__DOCUMENT_NAME__": "Chuva de Lâminas",
+      "domain": "modules/the_void-br/domains/rain-of-blades.webp"
+    },
+    "VKAHS6eWz28ukcDs": {
+      "__DOCUMENT_NAME__": "Impulso",
+      "domain": "modules/the_void-br/domains/boost.webp"
+    },
+    "VOIgm2j2Ijszwc5m": {
+      "__DOCUMENT_NAME__": "Livro de Vyola",
+      "domain": "modules/the_void-br/domains/book-of-vyola.webp"
+    },
+    "VOSFaQHZbmhMyXwi": {
+      "__DOCUMENT_NAME__": "Dom da Sapiência",
+      "domain": "modules/the_void-br/domains/sage-touched.webp"
+    },
+    "VZ2b4zfRzV73XTuT": {
+      "__DOCUMENT_NAME__": "Rastreador Talentoso",
+      "domain": "modules/the_void-br/domains/gifted-tracker.webp"
+    },
+    "WChWEH36lUpXAC0K": {
+      "__DOCUMENT_NAME__": "Tático",
+      "domain": "modules/the_void-br/domains/tactician.webp"
+    },
+    "WTlhnQMajc1r8i50": {
+      "__DOCUMENT_NAME__": "Mãos Curativas",
+      "domain": "modules/the_void-br/domains/healing-hands.webp"
+    },
+    "WnGldYhJPDhx8v9X": {
+      "__DOCUMENT_NAME__": "Abalo Sísmico",
+      "domain": "modules/the_void-br/domains/ground-pound.webp"
+    },
+    "WtwSWXTRZa7QVvmo": {
+      "__DOCUMENT_NAME__": "Livro de Norai",
+      "domain": "modules/the_void-br/domains/book-of-norai.webp"
+    },
+    "X7YaZgFieBlqaPdZ": {
+      "__DOCUMENT_NAME__": "Tempestade",
+      "domain": "modules/the_void-br/domains/tempest.webp"
+    },
+    "X8OfkEoI5gLTRf1B": {
+      "__DOCUMENT_NAME__": "Revigorar",
+      "domain": "modules/the_void-br/domains/invigoration.webp"
+    },
+    "XTT8c8uJ4D7fvtbL": {
+      "__DOCUMENT_NAME__": "Inevitável",
+      "domain": "modules/the_void-br/domains/inevitable.webp"
+    },
+    "XtSc0jIJLOoMTMYS": {
+      "__DOCUMENT_NAME__": "Golpe Curativo",
+      "domain": "modules/the_void-br/domains/healing-strike.webp"
+    },
+    "Y08dLFuPXsgeRrHi": {
+      "__DOCUMENT_NAME__": "Fraternidade Marcial",
+      "domain": "modules/the_void-br/domains/a-soldiers-bond.webp"
+    },
+    "YNOCNmZ96sCp9NEr": {
+      "__DOCUMENT_NAME__": "Projeção Astral",
+      "domain": "modules/the_void-br/domains/astral-projection.webp"
+    },
+    "YWCRplmtwpCjpq5i": {
+      "__DOCUMENT_NAME__": "Líder Exemplar",
+      "domain": "modules/the_void-br/domains/lead-by-example.webp"
+    },
+    "YtZzYBtR0yLPPA93": {
+      "__DOCUMENT_NAME__": "Livro de Ava",
+      "domain": "modules/the_void-br/domains/book-of-ava.webp"
+    },
+    "Zhw7PtK8nMPlsOqD": {
+      "__DOCUMENT_NAME__": "Ocultação",
+      "domain": "modules/the_void-br/domains/cloaking-blast.webp"
+    },
+    "ZjAdi1FSNCDDHI3X": {
+      "__DOCUMENT_NAME__": "Palavras de Discórdia",
+      "domain": "modules/the_void-br/domains/words-of-discord.webp"
+    },
+    "Zp2S2EnLS5Iv3XuT": {
+      "__DOCUMENT_NAME__": "Ajustar Realidade",
+      "domain": "modules/the_void-br/domains/adjust-reality.webp"
+    },
+    "a8lFiKX1o8T924ze": {
+      "__DOCUMENT_NAME__": "Enfeitiçar",
+      "domain": "modules/the_void-br/domains/enrapture.webp"
+    },
+    "aC43NiFQLpOADyjO": {
+      "__DOCUMENT_NAME__": "Premonição",
+      "domain": "modules/the_void-br/domains/premonition.webp"
+    },
+    "aQz8jKkCd8M9aKMA": {
+      "__DOCUMENT_NAME__": "Força Esmagadora",
+      "domain": "modules/the_void-br/domains/body-basher.webp"
+    },
+    "aknDDYtN7EObv94t": {
+      "__DOCUMENT_NAME__": "Livro de Vagras",
+      "domain": "modules/the_void-br/domains/book-of-vagras.webp"
+    },
+    "anO0arioUy7I5zBg": {
+      "__DOCUMENT_NAME__": "Turbilhão",
+      "domain": "modules/the_void-br/domains/whirlwind.webp"
+    },
+    "atWLorlCOxcrq8WB": {
+      "__DOCUMENT_NAME__": "Voz da Natureza",
+      "domain": "modules/the_void-br/domains/natures-tongue.webp"
+    },
+    "bap1eCWryPNowbyo": {
+      "__DOCUMENT_NAME__": "Acuidade Cruel",
+      "domain": "modules/the_void-br/domains/cruel-precision.webp"
+    },
+    "cWRFHJdxEZ0M1dAg": {
+      "__DOCUMENT_NAME__": "Livro de Korvax",
+      "domain": "modules/the_void-br/domains/book-of-korvax.webp"
+    },
+    "cWu1o82ZF7GvnbXc": {
+      "__DOCUMENT_NAME__": "Palavras Inspiradoras",
+      "domain": "modules/the_void-br/domains/inspirational-words.webp"
+    },
+    "cy8GjBPGc9w9RaGO": {
+      "__DOCUMENT_NAME__": "Armeiro",
+      "domain": "modules/the_void-br/domains/armorer.webp"
+    },
+    "dT95m0Jam8sWbeuC": {
+      "__DOCUMENT_NAME__": "Disfarce em Massa",
+      "domain": "modules/the_void-br/domains/mass-disguise.webp"
+    },
+    "db4xV3YErHRslbVE": {
+      "__DOCUMENT_NAME__": "Moldar Material",
+      "domain": "modules/the_void-br/domains/shape-material.webp"
+    },
+    "dc4rAXlv95srZUct": {
+      "__DOCUMENT_NAME__": "Movimento Ligeiro",
+      "domain": "modules/the_void-br/domains/deft-maneuvers.webp"
+    },
+    "df4iRqQzRntrF6Qw": {
+      "__DOCUMENT_NAME__": "Livro de Illiat",
+      "domain": "modules/the_void-br/domains/book-of-illiat.webp"
+    },
+    "eq8VNqYMRHhF9xw9": {
+      "__DOCUMENT_NAME__": "Livro de Sitil",
+      "domain": "modules/the_void-br/domains/book-of-sitil.webp"
+    },
+    "ewhIzXQ2h9fS9I8c": {
+      "__DOCUMENT_NAME__": "Carga Mágica",
+      "domain": "modules/the_void-br/domains/spellcharge.webp"
+    },
+    "faU0XkJCbar69PiN": {
+      "__DOCUMENT_NAME__": "Redirecionar",
+      "domain": "modules/the_void-br/domains/redirect.webp"
+    },
+    "ffPbSEvLuFrFsMxl": {
+      "__DOCUMENT_NAME__": "Novo Fôlego",
+      "domain": "modules/the_void-br/domains/second-wind.webp"
+    },
+    "gFMx08ogQ8hS2Obi": {
+      "__DOCUMENT_NAME__": "Livro de Homet",
+      "domain": "modules/the_void-br/domains/book-of-homet.webp"
+    },
+    "gV4L5ZZmfPrEbIDh": {
+      "__DOCUMENT_NAME__": "Véu da Noite",
+      "domain": "modules/the_void-br/domains/veil-of-night.webp"
+    },
+    "gZOMzskSOfeiXn54": {
+      "__DOCUMENT_NAME__": "Projeção Sensorial",
+      "domain": "modules/the_void-br/domains/sensory-projection.webp"
+    },
+    "gsiQFT6q3WOgqerJ": {
+      "__DOCUMENT_NAME__": "Recuperação",
+      "domain": "modules/the_void-br/domains/recovery.webp"
+    },
+    "gwmYasmfgXZ7tFS6": {
+      "__DOCUMENT_NAME__": "Xiu",
+      "domain": "modules/the_void-br/domains/hush.webp"
+    },
+    "hZJp9mdkMnqKDROe": {
+      "__DOCUMENT_NAME__": "Cair o Céu",
+      "domain": "modules/the_void-br/domains/falling-sky.webp"
+    },
+    "iEBLySZD9z8CLdz7": {
+      "__DOCUMENT_NAME__": "Aura Esmagadora",
+      "domain": "modules/the_void-br/domains/overwhelming-aura.webp"
+    },
+    "iQhgqmLwhcSTYnvr": {
+      "__DOCUMENT_NAME__": "Espectro das Trevas",
+      "domain": "modules/the_void-br/domains/specter-of-the-dark.webp"
+    },
+    "iYNVTB7uAD1FTCZu": {
+      "__DOCUMENT_NAME__": "Validação",
+      "domain": "modules/the_void-br/domains/reassurance.webp"
+    },
+    "jSQsSP61CX4MhSN7": {
+      "__DOCUMENT_NAME__": "Ferocidade",
+      "domain": "modules/the_void-br/domains/ferocity.webp"
+    },
+    "k1AtYd3lSchIymBr": {
+      "__DOCUMENT_NAME__": "Dom da Bravura",
+      "domain": "modules/the_void-br/domains/valor-touched.webp"
+    },
+    "kVkoCLBXLAIifqpz": {
+      "__DOCUMENT_NAME__": "União Transcendental",
+      "domain": "modules/the_void-br/domains/transcendent-union.webp"
+    },
+    "kdFoLo3KXwn4LqTG": {
+      "__DOCUMENT_NAME__": "Manter Posição",
+      "domain": "modules/the_void-br/domains/hold-the-line.webp"
+    },
+    "kguhWlidhxe2GbT0": {
+      "__DOCUMENT_NAME__": "Sombra Traiçoeira",
+      "domain": "modules/the_void-br/domains/shadowbind.webp"
+    },
+    "kja5qvh4rdeDBB96": {
+      "__DOCUMENT_NAME__": "Onda Desintegradora",
+      "domain": "modules/the_void-br/domains/disintegration-wave.webp"
+    },
+    "klahWDFwihqqEhXP": {
+      "__DOCUMENT_NAME__": "Em Dobro",
+      "domain": "modules/the_void-br/domains/encore.webp"
+    },
+    "l5D9kq901JDESaXw": {
+      "__DOCUMENT_NAME__": "Armadura Corporal",
+      "domain": "modules/the_void-br/domains/bare-bones.webp"
+    },
+    "lOZaRb4fCVgQsWB5": {
+      "__DOCUMENT_NAME__": "Zona de Proteção",
+      "domain": "modules/the_void-br/domains/zone-of-protection.webp"
+    },
+    "lRHo6ZkK1zybeEoG": {
+      "__DOCUMENT_NAME__": "Fulgor Atordoante",
+      "domain": "modules/the_void-br/domains/stunning-sunlight.webp"
+    },
+    "lmBLMPuR8qLbuzNf": {
+      "__DOCUMENT_NAME__": "Refúgio Seguro",
+      "domain": "modules/the_void-br/domains/safe-haven.webp"
+    },
+    "n0P3VS1WfxvmXbB6": {
+      "__DOCUMENT_NAME__": "Tronco Descomunal",
+      "domain": "modules/the_void-br/domains/towering-stalk.webp"
+    },
+    "nCNCqSH7UgW4O3To": {
+      "__DOCUMENT_NAME__": "Golpe de Raspão",
+      "domain": "modules/the_void-br/domains/glancing-blow.webp"
+    },
+    "o62i0QdbUDIiAhSq": {
+      "__DOCUMENT_NAME__": "Liberar o Caos",
+      "domain": "modules/the_void-br/domains/unleash-chaos.webp"
+    },
+    "oDIZoC4l19Nli0Fj": {
+      "__DOCUMENT_NAME__": "Altivez",
+      "domain": "modules/the_void-br/domains/rise-up.webp"
+    },
+    "oUipGK84E2KjoKqh": {
+      "__DOCUMENT_NAME__": "Pele de Espinhos",
+      "domain": "modules/the_void-br/domains/thorn-skin.webp"
+    },
+    "oVa49lI107eZILZr": {
+      "__DOCUMENT_NAME__": "Armadura Fortificada",
+      "domain": "modules/the_void-br/domains/fortified-armor.webp"
+    },
+    "oVs2MSC6Uf5GbgEG": {
+      "__DOCUMENT_NAME__": "Livro de Exota",
+      "domain": "modules/the_void-br/domains/book-of-exota.webp"
+    },
+    "pcbYD33rBBdAo5f9": {
+      "__DOCUMENT_NAME__": "Golpe Inspirador",
+      "domain": "modules/the_void-br/domains/rousing-strike.webp"
+    },
+    "qJaSNTuDfbPVr8Lb": {
+      "__DOCUMENT_NAME__": "Projétil Corrosivo",
+      "domain": "modules/the_void-br/domains/corrosive-projectile.webp"
+    },
+    "qvpvTnkAoRn9vYO4": {
+      "__DOCUMENT_NAME__": "Vinha Voraz",
+      "domain": "modules/the_void-br/domains/vicious-entangle.webp"
+    },
+    "rZPH0BY8Sznc9sFG": {
+      "__DOCUMENT_NAME__": "Conjurar Enxame",
+      "domain": "modules/the_void-br/domains/conjure-swarm.webp"
+    },
+    "rfIv6lln40Fh6EIl": {
+      "__DOCUMENT_NAME__": "Aura Defensora",
+      "domain": "modules/the_void-br/domains/shield-aura.webp"
+    },
+    "rnejRbUQsNGX1GMC": {
+      "__DOCUMENT_NAME__": "Vantagem do Campeão",
+      "domain": "modules/the_void-br/domains/champions-edge.webp"
+    },
+    "s3zRsOMeUkuDwgd8": {
+      "__DOCUMENT_NAME__": "Armadura Irredutível",
+      "domain": "modules/the_void-br/domains/unyielding-armor.webp"
+    },
+    "sWUlSPOJEaXyQLCj": {
+      "__DOCUMENT_NAME__": "Vitalidade",
+      "domain": "modules/the_void-br/domains/vitality.webp"
+    },
+    "stId5syX7YpP2JGz": {
+      "__DOCUMENT_NAME__": "Bastião",
+      "domain": "modules/the_void-br/domains/support-tank.webp"
+    },
+    "t3RRGH6mMYYJJCcF": {
+      "__DOCUMENT_NAME__": "Voz da Razão",
+      "domain": "modules/the_void-br/domains/voice-of-reason.webp"
+    },
+    "tNzFNlVHghloKsFi": {
+      "__DOCUMENT_NAME__": "Carisma Infinito",
+      "domain": "modules/the_void-br/domains/endless-charisma.webp"
+    },
+    "tceJDcCUefrMS2Ov": {
+      "__DOCUMENT_NAME__": "Contra-ataque Rápido",
+      "domain": "modules/the_void-br/domains/rapid-riposte.webp"
+    },
+    "tdsL00yTSLNgZWs6": {
+      "__DOCUMENT_NAME__": "Presença Corajosa",
+      "domain": "modules/the_void-br/domains/bold-presence.webp"
+    },
+    "uSyGKVxOJcnp28po": {
+      "__DOCUMENT_NAME__": "Dom da Meia-Noite",
+      "domain": "modules/the_void-br/domains/midnight-touched.webp"
+    },
+    "ubpixIgZrJXKyM3b": {
+      "__DOCUMENT_NAME__": "Enfeitiçar em Massa",
+      "domain": "modules/the_void-br/domains/mass-enrapture.webp"
+    },
+    "vd5STqX29RpYbGxa": {
+      "__DOCUMENT_NAME__": "Fenda Espacial",
+      "domain": "modules/the_void-br/domains/rift-walker.webp"
+    },
+    "wOQLu7nLMQ7v6Ogw": {
+      "__DOCUMENT_NAME__": "Olho Flutuante",
+      "domain": "modules/the_void-br/domains/floating-eye.webp"
+    },
+    "wQ53ImDswEHv5SGQ": {
+      "__DOCUMENT_NAME__": "Versátil",
+      "domain": "modules/the_void-br/domains/versatile-fighter.webp"
+    },
+    "wUQFsRtww18naYaq": {
+      "__DOCUMENT_NAME__": "Restauração",
+      "domain": "modules/the_void-br/domains/restoration.webp"
+    },
+    "x0FVGE1YbfXalJiw": {
+      "__DOCUMENT_NAME__": "Constrição Mortal",
+      "domain": "modules/the_void-br/domains/death-grip.webp"
+    },
+    "xFOSn8IVVNizgHFq": {
+      "__DOCUMENT_NAME__": "Trajeto Mortal",
+      "domain": "modules/the_void-br/domains/deathrun.webp"
+    },
+    "xheQZOIYp0ERQhT9": {
+      "__DOCUMENT_NAME__": "Não o Suficiente",
+      "domain": "modules/the_void-br/domains/not-good-enough.webp"
+    },
+    "xxZOXC4tiZQ6kg1e": {
+      "__DOCUMENT_NAME__": "Concentração Mortal",
+      "domain": "modules/the_void-br/domains/deadly-focus.webp"
+    },
+    "yAGTwXHUC3qxpTeK": {
+      "__DOCUMENT_NAME__": "Mestre do Ofício",
+      "domain": "modules/the_void-br/domains/master-of-the-craft.webp"
+    },
+    "yL2qrSWmTwXVOySH": {
+      "__DOCUMENT_NAME__": "Sussurros Sombrios",
+      "domain": "modules/the_void-br/domains/dark-whispers.webp"
+    },
+    "z30ciOwQI7g3tHla": {
+      "__DOCUMENT_NAME__": "Ressurreição",
+      "domain": "modules/the_void-br/domains/resurrection.webp"
+    },
+    "z8FFPhDh2SdFkFfS": {
+      "__DOCUMENT_NAME__": "Empurrão Violento",
+      "domain": "modules/the_void-br/domains/forceful-push.webp"
+    },
+    "zbxPl81kbWEegKQN": {
+      "__DOCUMENT_NAME__": "Quase Lá",
+      "domain": "modules/the_void-br/domains/on-the-brink.webp"
+    },
+    "zcldCuqOg3dphUVI": {
+      "__DOCUMENT_NAME__": "Terror Noturno",
+      "domain": "modules/the_void-br/domains/night-terror.webp"
+    }
+  },
+  "daggerheart-br.ancestralidades-br": {
+    "1n3FwFrejkEtoYP6": {
+      "__DOCUMENT_NAME__": "Infernis",
+      "domain": "modules/the_void-br/Imagens/infernis.webp"
+    },
+    "45IIDIbTIjgI48SN": {
+      "__DOCUMENT_NAME__": "Clank",
+      "domain": "modules/the_void-br/Imagens/clank.webp"
+    },
+    "4TtOpO1kxJeWarAA": {
+      "__DOCUMENT_NAME__": "Goblin",
+      "domain": "modules/the_void-br/Imagens/goblin.webp"
+    },
+    "CVdKNqyMGxouVQKI": {
+      "__DOCUMENT_NAME__": "Humano",
+      "domain": "modules/the_void-br/Imagens/humano.webp"
+    },
+    "GgMn3xWL3j6WxRLM": {
+      "__DOCUMENT_NAME__": "Quacho",
+      "domain": "modules/the_void-br/Imagens/quacho.webp"
+    },
+    "J4jehNS92Vnbp9mI": {
+      "__DOCUMENT_NAME__": "Drakona",
+      "domain": "modules/the_void-br/Imagens/drakona.webp"
+    },
+    "SWCCEve62aX5qtiY": {
+      "__DOCUMENT_NAME__": "Anão",
+      "domain": "modules/the_void-br/Imagens/anao.webp"
+    },
+    "SpzdpS3iYPygOFIG": {
+      "__DOCUMENT_NAME__": "Katari",
+      "domain": "modules/the_void-br/Imagens/katari.webp"
+    },
+    "UW7My7YgttwdJmv5": {
+      "__DOCUMENT_NAME__": "Galapa",
+      "domain": "modules/the_void-br/Imagens/galapa.webp"
+    },
+    "WQTGzBCQENbMDVQB": {
+      "__DOCUMENT_NAME__": "Elfo",
+      "domain": "modules/the_void-br/Imagens/elfo.webp"
+    },
+    "XGozBZkmnRiKZ2Ho": {
+      "__DOCUMENT_NAME__": "Fauno",
+      "domain": "modules/the_void-br/Imagens/fauno.webp"
+    },
+    "ZVBWrmoEvAaDkAiu": {
+      "__DOCUMENT_NAME__": "Símio",
+      "domain": "modules/the_void-br/Imagens/simio.webp"
+    },
+    "bLXYDUfbhFW9NPQM": {
+      "__DOCUMENT_NAME__": "Fada",
+      "domain": "modules/the_void-br/Imagens/fada.webp"
+    },
+    "g02ffIjyqRSV39F7": {
+      "__DOCUMENT_NAME__": "Gigante",
+      "domain": "modules/the_void-br/Imagens/gigante.webp"
+    },
+    "kFvgX8FElsvVJcdH": {
+      "__DOCUMENT_NAME__": "Firbolg",
+      "domain": "modules/the_void-br/Imagens/firbolg.webp"
+    },
+    "qXiM4otGFhPezyLl": {
+      "__DOCUMENT_NAME__": "Fungril",
+      "domain": "modules/the_void-br/Imagens/fungril.webp"
+    },
+    "tdW2Sngc89sKZ2ze": {
+      "__DOCUMENT_NAME__": "Metadílio",
+      "domain": "modules/the_void-br/Imagens/metadilio.webp"
+    },
+    "u3LW7nothqN8AG6r": {
+      "__DOCUMENT_NAME__": "Orc",
+      "domain": "modules/the_void-br/Imagens/orc.webp"
+    }
+  },
+  "daggerheart-br.classes-br": {
+    "5OPJMzmEs7YxCfnj": {
+      "__DOCUMENT_NAME__": "Mago",
+      "domain": "modules/the_void-br/Imagens/mago.webp"
+    },
+    "8eGf4lviMHPFEayw": {
+      "__DOCUMENT_NAME__": "Ladino",
+      "domain": "modules/the_void-br/Imagens/ladino.webp"
+    },
+    "LUR10LpkCu0iPwYl": {
+      "__DOCUMENT_NAME__": "Druida",
+      "domain": "modules/the_void-br/Imagens/druida.webp"
+    },
+    "T3hWOZHC6H32GRib": {
+      "__DOCUMENT_NAME__": "Guerreiro",
+      "domain": "modules/the_void-br/Imagens/guerreiro.webp"
+    },
+    "TAsnWtj4yyTosnJR": {
+      "__DOCUMENT_NAME__": "Feiticeiro",
+      "domain": "modules/the_void-br/Imagens/feiticeiro.webp"
+    },
+    "dU2LEZhDHk4757R4": {
+      "__DOCUMENT_NAME__": "Bardo",
+      "domain": "modules/the_void-br/Imagens/bardo.webp"
+    },
+    "kUb6sYS5KXbVz7UW": {
+      "__DOCUMENT_NAME__": "Serafim",
+      "domain": "modules/the_void-br/Imagens/serafim.webp"
+    },
+    "ndeALEsdslHkgXdB": {
+      "__DOCUMENT_NAME__": "Guardião",
+      "domain": "modules/the_void-br/Imagens/guardiao.webp"
+    },
+    "uRgoQdKsswGL7CaX": {
+      "__DOCUMENT_NAME__": "Caçador",
+      "domain": "modules/the_void-br/Imagens/cacador.webp"
+    }
+  },
+  "daggerheart-br.comunidades-br": {
+    "EEnuocdjeKzyqwyL": {
+      "__DOCUMENT_NAME__": "Disciplinada",
+      "domain": "modules/the_void-br/Imagens/disciplinada.webp"
+    },
+    "KGZDnM9daS1HghOH": {
+      "__DOCUMENT_NAME__": "Vigarista",
+      "domain": "modules/the_void-br/Imagens/vigarista.webp"
+    },
+    "Pk8tL7BJooBfif2u": {
+      "__DOCUMENT_NAME__": "Aristocrática",
+      "domain": "modules/the_void-br/Imagens/aristocratica.webp"
+    },
+    "XhFwZzzZy4QW4uBo": {
+      "__DOCUMENT_NAME__": "Nômade",
+      "domain": "modules/the_void-br/Imagens/nomade.webp"
+    },
+    "Y2eFikaowXBXsBOG": {
+      "__DOCUMENT_NAME__": "Erudita",
+      "domain": "modules/the_void-br/Imagens/erudita.webp"
+    },
+    "fszr2bJ5x0EobdoR": {
+      "__DOCUMENT_NAME__": "Subterrânea",
+      "domain": "modules/the_void-br/Imagens/subterranea.webp"
+    },
+    "kNl0i5sjr4rMjZN9": {
+      "__DOCUMENT_NAME__": "Montanhesa",
+      "domain": "modules/the_void-br/Imagens/montanhesa.webp"
+    },
+    "xiF9b02f91LNe8Ho": {
+      "__DOCUMENT_NAME__": "Marítima",
+      "domain": "modules/the_void-br/Imagens/maritima.webp"
+    },
+    "yShFyZ3i1oUdE3jx": {
+      "__DOCUMENT_NAME__": "Silvestre",
+      "domain": "modules/the_void-br/Imagens/silvestre.webp"
+    }
+  },
+  "daggerheart-br.subclasses-br": {
+    "6AipcpEwczVqiEHb": {
+      "__DOCUMENT_NAME__": "Chamado da Bravura",
+      "domain": "modules/the_void-br/Imagens/chamado-da-bravura.webp"
+    },
+    "7FS1p8LsU70Kfis7": {
+      "__DOCUMENT_NAME__": "Protetor dos Elementos",
+      "domain": "modules/the_void-br/Imagens/protetor-dos-elementos.webp"
+    },
+    "8uEklKKKGit9rAJ2": {
+      "__DOCUMENT_NAME__": "Primordialista",
+      "domain": "modules/the_void-br/Imagens/primordialista.webp"
+    },
+    "ACb2g3p7ruZjsd0S": {
+      "__DOCUMENT_NAME__": "Portador Divino",
+      "domain": "modules/the_void-br/Imagens/portador-divino.webp"
+    },
+    "BCYJJzCFloBBbVp9": {
+      "__DOCUMENT_NAME__": "Beletrista",
+      "domain": "modules/the_void-br/Imagens/beletrista.webp"
+    },
+    "BhqOnzgMYWMQL00W": {
+      "__DOCUMENT_NAME__": "Chamado da Matança",
+      "domain": "modules/the_void-br/Imagens/chamado-da-matanca.webp"
+    },
+    "BxnxbvysySK8Cfuz": {
+      "__DOCUMENT_NAME__": "Vínculo Bestial",
+      "domain": "modules/the_void-br/Imagens/vinculo-bestial.webp"
+    },
+    "GsiDMiZ0HpP6doVb": {
+      "__DOCUMENT_NAME__": "Trovador",
+      "domain": "modules/the_void-br/Imagens/trovador.webp"
+    },
+    "VKu2DIEHpR9RXbm4": {
+      "__DOCUMENT_NAME__": "Mafioso",
+      "domain": "modules/the_void-br/Imagens/mafioso.webp"
+    },
+    "Z4vqVJl2SNizU19z": {
+      "__DOCUMENT_NAME__": "Vingador",
+      "domain": "modules/the_void-br/Imagens/vingador.webp"
+    },
+    "c7Tp46DHROqWohBQ": {
+      "__DOCUMENT_NAME__": "Discípulo do Conhecimento",
+      "domain": "modules/the_void-br/Imagens/discipulo-do-conhecimento.webp"
+    },
+    "e5UxG62rNJ2uZJpE": {
+      "__DOCUMENT_NAME__": "Protetor da Renovação",
+      "domain": "modules/the_void-br/Imagens/protetor-da-renovacao.webp"
+    },
+    "g8KBiFW4ZCVwGzP6": {
+      "__DOCUMENT_NAME__": "Discípulo da Guerra",
+      "domain": "modules/the_void-br/Imagens/discipulo-da-guerra.webp"
+    },
+    "kM9TwtWKTkDsPulN": {
+      "__DOCUMENT_NAME__": "Elementalista",
+      "domain": "modules/the_void-br/Imagens/elementalista.webp"
+    },
+    "l1I8dKI6YaCNmfNL": {
+      "__DOCUMENT_NAME__": "Baluarte",
+      "domain": "modules/the_void-br/Imagens/baluarte.webp"
+    },
+    "v6tu6xoePRX2PlGn": {
+      "__DOCUMENT_NAME__": "Rastreador",
+      "domain": "modules/the_void-br/Imagens/rastreador.webp"
+    },
+    "gEzy8XSnLvg7A757": {
+      "__DOCUMENT_NAME__": "Sentinela Alada",
+      "domain": "modules/the_void-br/Imagens/sentinela-alada.webp"
+    },
+    "yDkoD2Ud3n2XNJEd": {
+      "__DOCUMENT_NAME__": "Andarilho Noturno",
+      "domain": "modules/the_void-br/Imagens/andarilho-noturno.webp"
+    }
   }
 }
