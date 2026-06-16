@@ -1,6 +1,5 @@
-const MODULE_ID = "domain-art";
+const MODULE_ID = "the_void-br";
 const SYSTEM_ID = "daggerheart";
-const COMPENDIUM_ID = "daggerheart.domains";
 const MAPPING_FILE = `modules/${MODULE_ID}/domains-mapping.json`;
 const SETTING_KEY = "lastSystemVersion";
 
@@ -10,57 +9,68 @@ Hooks.once("ready", async function () {
 
   // Se a versão não mudou, não faz nada
   if (lastSystemVersion === currentSystemVersion) {
-    console.log(`Domain Art Override | Sistema ${SYSTEM_ID} na mesma versão (${currentSystemVersion}), nada a fazer.`);
+    console.log(`Art Override | Sistema ${SYSTEM_ID} na mesma versão (${currentSystemVersion}), nada a fazer.`);
     return;
   }
 
-  console.log(`Domain Art Override | Detectada nova versão do sistema ${SYSTEM_ID}: ${lastSystemVersion || "nenhuma"} → ${currentSystemVersion}`);
-  console.log(`Domain Art Override | Iniciando substituição de imagens...`);
+  console.log(`Art Override | Detectada nova versão do sistema ${SYSTEM_ID}: ${lastSystemVersion || "nenhuma"} → ${currentSystemVersion}`);
+  console.log(`Art Override | Iniciando substituição de imagens...`);
 
-  // Carrega o mapeamento
+  // Carrega o mapeamento único
   let mapping;
   try {
     const response = await fetch(MAPPING_FILE);
     mapping = await response.json();
   } catch (err) {
-    console.error(`Domain Art Override | Erro ao carregar ${MAPPING_FILE}`, err);
+    console.error(`Art Override | Erro ao carregar ${MAPPING_FILE}`, err);
     return;
   }
 
-  const pack = game.packs.get(COMPENDIUM_ID);
-  if (!pack) {
-    console.error(`Domain Art Override | Compendium ${COMPENDIUM_ID} não encontrado.`);
-    return;
-  }
+let totalUpdatedCount = 0;
 
-  const wasLocked = pack.locked;
-  if (wasLocked) {
-    console.log("Domain Art Override | Desbloqueando compendium...");
-    await pack.configure({ locked: false });
-  }
+  // Loop dinâmico pelas chaves do JSON (cada chave é o ID de um Compendium)
+  for (const [compendiumId, itemsMap] of Object.entries(mapping)) {
+    const pack = game.packs.get(compendiumId);
+    
+    if (!pack) {
+      console.warn(`Art Override | Compendium '${compendiumId}' não encontrado. Pulando...`);
+      continue;
+    }
 
-  const items = await pack.getDocuments();
-  let updatedCount = 0;
+    const wasLocked = pack.locked;
+    if (wasLocked) {
+      console.log(`Art Override | Desbloqueando compendium: ${compendiumId}`);
+      await pack.configure({ locked: false });
+    }
 
-  for (const item of items) {
-    const mapEntry = mapping[COMPENDIUM_ID]?.[item.id];
-    if (mapEntry && mapEntry.domain && item.img !== mapEntry.domain) {
-      await item.update({ img: mapEntry.domain });
-      updatedCount++;
-      console.log(`Domain Art Override | Atualizado: ${mapEntry.__DOCUMENT_NAME__} (${item.id})`);
+    const items = await pack.getDocuments();
+    let packUpdatedCount = 0;
+
+    for (const item of items) {
+      const mapEntry = itemsMap[item.id];
+      // Aceita tanto a chave "domain" quanto "img" no seu JSON para maior flexibilidade futura
+      const imagePath = mapEntry?.domain || mapEntry?.img; 
+
+      if (mapEntry && imagePath && item.img !== imagePath) {
+        await item.update({ img: imagePath });
+        packUpdatedCount++;
+        console.log(`Art Override | Atualizado: ${mapEntry.__DOCUMENT_NAME__} (${item.id}) em ${compendiumId}`);
+      }
+    }
+
+    totalUpdatedCount += packUpdatedCount;
+
+    if (wasLocked) {
+      console.log(`Art Override | Bloqueando compendium novamente: ${compendiumId}`);
+      await pack.configure({ locked: true });
     }
   }
 
-  console.log(`Domain Art Override | Total de itens atualizados: ${updatedCount}`);
-
-  if (wasLocked) {
-    console.log("Domain Art Override | Bloqueando compendium novamente...");
-    await pack.configure({ locked: true });
-  }
+  console.log(`Art Override | Total geral de itens atualizados: ${totalUpdatedCount}`);
 
   // Salva versão atual do sistema
   await game.settings.set(MODULE_ID, SETTING_KEY, currentSystemVersion);
-  console.log(`Domain Art Override | Versão ${currentSystemVersion} registrada, script não rodará até o sistema ser atualizado.`);
+  console.log(`Art Override | Versão ${currentSystemVersion} registrada, script não rodará até o sistema ser atualizado.`);
 });
 
 // Registra a setting para salvar a última versão do sistema
