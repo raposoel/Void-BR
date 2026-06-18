@@ -1,10 +1,10 @@
 {
   "id": "the_void-br",
   "title": "The Void DH - BR",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "compatibility": {
     "minimum": "13",
-    "verified": "13"
+    "verified": "14"
   },
   "scripts": [
     "init.js"
